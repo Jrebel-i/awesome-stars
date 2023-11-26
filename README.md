@@ -279,7 +279,7 @@
 ## JavaScript 
 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
+- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [carteryh/big-data](https://github.com/carteryh/big-data) - big data study
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [adamyi/wechrome](https://github.com/adamyi/wechrome) - Chrome extension to unblock web wechat
@@ -551,7 +551,7 @@
 
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [Kerwin1202/chatgpt-web](https://github.com/Kerwin1202/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
+- [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
 
