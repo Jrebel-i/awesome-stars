@@ -478,6 +478,7 @@
 
 ## java 
 
+- [cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI) - Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群
 - [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [alipay/fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
@@ -632,6 +633,7 @@
 
 ## others 
 
+- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
