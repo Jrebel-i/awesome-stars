@@ -122,6 +122,7 @@
 
 ## HTML 
 
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI) - Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群
@@ -135,6 +136,8 @@
 
 ## Java 
 
+- [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
+- [confluentinc/flink-cookbook](https://github.com/confluentinc/flink-cookbook) - 
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
 - [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
 - [datastrato/gravitino](https://github.com/datastrato/gravitino) - A high-performance, geo-distributed and federated metadata lake
@@ -369,6 +372,7 @@
 
 ## Others 
 
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn) - Raft 博士论文的中文翻译
 - [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus.
@@ -607,6 +611,7 @@
 
 ## Vue 
 
+- [dulaiduwang003/ScribbleHub](https://github.com/dulaiduwang003/ScribbleHub) - 基于SpringBoot3开发的轻量级技术博客小程序,支持 文章发布(支持上传音频内容或视频内容) 专题管理 搜索 以及渲染 以及文章评论功能 无需第三方OSS存储,使用的是服务器存储空间 详细请看yml中的file配置
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [Kerwin1202/chatgpt-web](https://github.com/Kerwin1202/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
