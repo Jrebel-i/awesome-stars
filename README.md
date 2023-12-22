@@ -136,6 +136,7 @@
 
 ## Java 
 
+- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 - [confluentinc/flink-cookbook](https://github.com/confluentinc/flink-cookbook) - 
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
@@ -159,7 +160,7 @@
 - [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore
 - [Aiven-Open/tiered-storage-for-apache-kafka](https://github.com/Aiven-Open/tiered-storage-for-apache-kafka) - RemoteStorageManager for Apache Kafka® Tiered Storage
 - [onetable-io/onetable](https://github.com/onetable-io/onetable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
-- [flowerfine/scaleph](https://github.com/flowerfine/scaleph) - Open data platform based on Flink and Kubernetes, supports web-ui click-and-drop data integration with SeaTunnel backended by Flink engine, flink online sql development backended by Flink Sql Gateway,
+- [flowerfine/scaleph](https://github.com/flowerfine/scaleph) - Open data platform based on Kubernetes. Scaleph supports SeaTunnel、Flink and Doris backended by SeaTunnel on Flink engine、Flink Kubernetes Operator and Doris operator.
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [apache/bookkeeper](https://github.com/apache/bookkeeper) - Apache BookKeeper - a scalable, fault tolerant and low latency storage service optimized for append-only workloads
