@@ -1148,7 +1148,7 @@
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  
 - [cloudera/hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
 - [apache/flink-connector-aws](https://github.com/apache/flink-connector-aws) - Apache flink
-- [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is an out-of-the-box, one-stop, real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink
+- [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a data development platform based on Apache Flink, enabling agile data development and deployment.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) - 基于flink的实时流计算web平台
