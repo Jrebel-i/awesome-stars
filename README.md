@@ -284,7 +284,7 @@
 - [quxiucheng/apache-calcite-tutorial](https://github.com/quxiucheng/apache-calcite-tutorial) - https://blog.csdn.net/QXC1281/article/details/89070285
 - [HamaWhiteGG/flink-sql-lineage](https://github.com/HamaWhiteGG/flink-sql-lineage) - The Lineage Analysis system for FlinkSQL supports advanced syntax such as Watermark, UDTF, CEP, Windowing TVFs, and CTAS.
 - [flowerfine/flinkful](https://github.com/flowerfine/flinkful) - flink endpoint for open world
-- [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is an out-of-the-box, one-stop, real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink
+- [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a data development platform based on Apache Flink, enabling agile data development and deployment.
 - [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [immerok/recipes](https://github.com/immerok/recipes) - The Immerok Apache Flink Cookbook is a collection of examples of Apache Flink applications in the format of "recipes". Each recipe explains how you can solve a specific problem by leveraging one or mo
