@@ -158,7 +158,7 @@
 - [emichael/dslabs](https://github.com/emichael/dslabs) - Distributed Systems Labs and Framework
 - [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
-- [alipay/fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
+- [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 - [apache/pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore
 - [Aiven-Open/tiered-storage-for-apache-kafka](https://github.com/Aiven-Open/tiered-storage-for-apache-kafka) - RemoteStorageManager for Apache Kafka® Tiered Storage
 - [onetable-io/onetable](https://github.com/onetable-io/onetable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
