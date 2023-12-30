@@ -722,6 +722,10 @@
 
 ## others 
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
+- [serjs/socks5-server](https://github.com/serjs/socks5-server) - 
+- [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - 
+- [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
