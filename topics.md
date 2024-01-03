@@ -147,6 +147,7 @@
 
 ## analytics 
 
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
@@ -188,6 +189,7 @@
 
 ## awesome 
 
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -375,6 +377,7 @@
 
 ## database 
 
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
@@ -513,6 +516,7 @@
 
 ## hacktoberfest 
 
+- [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -722,6 +726,8 @@
 
 ## others 
 
+- [ExpediaGroup/waggle-dance](https://github.com/ExpediaGroup/waggle-dance) - Hive federation service. Enables disparate tables to be concurrently accessed across multiple Hive deployments.
+- [jaegertracing/jaeger-analytics-flink](https://github.com/jaegertracing/jaeger-analytics-flink) - Big data analytics for Jaeger using Apache Flink
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) - 
 - [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - 
