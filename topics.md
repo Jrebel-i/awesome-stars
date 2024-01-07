@@ -189,6 +189,8 @@
 
 ## awesome 
 
+- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -199,6 +201,7 @@
 
 ## awesome-list 
 
+- [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -276,6 +279,7 @@
 
 ## chrome 
 
+- [kscript/markdown-download](https://github.com/kscript/markdown-download) - 谷歌浏览器插件: 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN的文章转为markdown文档并下载
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## chrome-extension 
@@ -341,6 +345,7 @@
 
 ## data 
 
+- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [alibaba/feathub](https://github.com/alibaba/feathub) - FeatHub - A stream-batch unified feature store for real-time machine learning
@@ -517,6 +522,7 @@
 
 ## hacktoberfest 
 
+- [canonical/raft](https://github.com/canonical/raft) - C implementation of the Raft consensus protocol
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
@@ -677,6 +683,7 @@
 
 ## markdown 
 
+- [kscript/markdown-download](https://github.com/kscript/markdown-download) - 谷歌浏览器插件: 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN的文章转为markdown文档并下载
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
@@ -728,6 +735,9 @@
 
 ## others 
 
+- [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids) - Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+- [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
+- [LGiki/cosmos-enhanced](https://github.com/LGiki/cosmos-enhanced) - 🪐 一个增强小宇宙播客网页端使用体验的浏览器插件
 - [ExpediaGroup/waggle-dance](https://github.com/ExpediaGroup/waggle-dance) - Hive federation service. Enables disparate tables to be concurrently accessed across multiple Hive deployments.
 - [jaegertracing/jaeger-analytics-flink](https://github.com/jaegertracing/jaeger-analytics-flink) - Big data analytics for Jaeger using Apache Flink
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
@@ -1164,6 +1174,7 @@
 
 ## sql 
 
+- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 - [eosphoros-ai/sqlgpt-parser](https://github.com/eosphoros-ai/sqlgpt-parser) - sqlgpt-parser is a Python implementation of an SQL parser that effectively converts SQL statements into Abstract Syntax Trees (AST). By leveraging AST tree comparisons between two SQL queries, it beco
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
