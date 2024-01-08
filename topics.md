@@ -149,7 +149,7 @@
 
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
@@ -397,7 +397,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance) - OLAP Database Performance Tuning Guide
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools) - Apache HBase Operator Tools
@@ -558,6 +558,7 @@
 
 ## java 
 
+- [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [dulaiduwang003/ScribbleHub](https://github.com/dulaiduwang003/ScribbleHub) - 基于SpringBoot3开发的轻量级技术博客小程序,支持 文章发布(支持上传音频内容或视频内容) 专题管理 搜索 以及渲染 以及文章评论功能 无需第三方OSS存储,使用的是服务器存储空间 详细请看yml中的file配置
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
@@ -735,6 +736,8 @@
 
 ## others 
 
+- [TheodoreKrypton/slacking-off-tools](https://github.com/TheodoreKrypton/slacking-off-tools) - 上班摸鱼工具集
+- [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 - [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids) - Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 - [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
 - [LGiki/cosmos-enhanced](https://github.com/LGiki/cosmos-enhanced) - 🪐 一个增强小宇宙播客网页端使用体验的浏览器插件
@@ -746,7 +749,7 @@
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [confluentinc/flink-cookbook](https://github.com/confluentinc/flink-cookbook) - 
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -1034,7 +1037,7 @@
 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [duhanmin/bigdata-sql-parser](https://github.com/duhanmin/bigdata-sql-parser) - 数据血缘，支持spark sql,hive sql,pg sql,presto sql,mysql sql,tidb sql, flink sql, datax血缘,spark/flink jar 运行命令的血缘解析；支持with语法
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 
@@ -1120,7 +1123,7 @@
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
@@ -1150,7 +1153,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
 - [aws-samples/aws-lambda-clickhouse](https://github.com/aws-samples/aws-lambda-clickhouse) - Run the open-source online analytics database ClickHouse in an AWS Lambda function
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 
@@ -1174,6 +1177,7 @@
 
 ## sql 
 
+- [apache/calcite-avatica](https://github.com/apache/calcite-avatica) - Apache Calcite Avatica
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 - [eosphoros-ai/sqlgpt-parser](https://github.com/eosphoros-ai/sqlgpt-parser) - sqlgpt-parser is a Python implementation of an SQL parser that effectively converts SQL statements into Abstract Syntax Trees (AST). By leveraging AST tree comparisons between two SQL queries, it beco
@@ -1188,7 +1192,7 @@
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
