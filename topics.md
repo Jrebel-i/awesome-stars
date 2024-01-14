@@ -339,7 +339,7 @@
 ## dart 
 
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - 使用Flutter构建的漫画APP, 支持查看许多漫画源
+- [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 
@@ -470,7 +470,7 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-- [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - 使用Flutter构建的漫画APP, 支持查看许多漫画源
+- [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## git 
@@ -736,6 +736,7 @@
 
 ## others 
 
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [TheodoreKrypton/slacking-off-tools](https://github.com/TheodoreKrypton/slacking-off-tools) - 上班摸鱼工具集
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 - [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids) - Spark RAPIDS plugin - accelerate Apache Spark with GPUs
