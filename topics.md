@@ -293,6 +293,7 @@
 
 ## cli 
 
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerates all infrastructure faults w/o the need for a PhD.
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 
 ## compiler 
@@ -772,7 +773,6 @@
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南。 The chinese translation of "Hitchhiker's Guide to Python".
 - [zabetak/calcite-druid-dataset](https://github.com/zabetak/calcite-druid-dataset) - Druid containers used for running the integration tests of Calcite Druid adapter
-- [restatedev/restate](https://github.com/restatedev/restate) - Restate server and CLI
 - [confluentinc/kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
 - [IBM/spark-s3-shuffle](https://github.com/IBM/spark-s3-shuffle) - A S3 Shuffle plugin for Apache Spark to enable elastic scaling for generic Spark workloads.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -980,7 +980,6 @@
 - [HamaWhiteGG/flink-sql-lineage](https://github.com/HamaWhiteGG/flink-sql-lineage) - The Lineage Analysis system for FlinkSQL supports advanced syntax such as Watermark, UDTF, CEP, Windowing TVFs, and CTAS.
 - [flowerfine/flinkful](https://github.com/flowerfine/flinkful) - flink endpoint for open world
 - [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
-- [immerok/recipes](https://github.com/immerok/recipes) - The Immerok Apache Flink Cookbook is a collection of examples of Apache Flink applications in the format of "recipes". Each recipe explains how you can solve a specific problem by leveraging one or mo
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
 - [yhyyz/emr-hudi-example](https://github.com/yhyyz/emr-hudi-example) - emr-hudi-example
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
@@ -1159,6 +1158,7 @@
 ## serverless 
 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerates all infrastructure faults w/o the need for a PhD.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
 - [aws-samples/aws-lambda-clickhouse](https://github.com/aws-samples/aws-lambda-clickhouse) - Run the open-source online analytics database ClickHouse in an AWS Lambda function
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
