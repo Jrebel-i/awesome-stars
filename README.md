@@ -300,7 +300,6 @@
 - [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a data development platform based on Apache Flink, enabling agile data development and deployment.
 - [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
-- [immerok/recipes](https://github.com/immerok/recipes) - The Immerok Apache Flink Cookbook is a collection of examples of Apache Flink applications in the format of "recipes". Each recipe explains how you can solve a specific problem by leveraging one or mo
 - [knaufk/statefun-aws-lambda-demo](https://github.com/knaufk/statefun-aws-lambda-demo) - 
 - [zabetak/calcite-tutorial](https://github.com/zabetak/calcite-tutorial) - 
 - [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) - 基于flink的实时流计算web平台
@@ -525,7 +524,7 @@
 ## Rust 
 
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
-- [restatedev/restate](https://github.com/restatedev/restate) - Restate server and CLI
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerates all infrastructure faults w/o the need for a PhD.
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [alecmocatta/streaming_algorithms](https://github.com/alecmocatta/streaming_algorithms) - Performant implementations of various streaming algorithms, including Count–min sketch, Top k, HyperLogLog, Reservoir sampling.
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
