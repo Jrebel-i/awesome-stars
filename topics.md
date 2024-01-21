@@ -1001,7 +1001,7 @@
 - [zhangjun0x01/bigdata-examples](https://github.com/zhangjun0x01/bigdata-examples) - 分享一些在工作中的大数据实战案例，包括flink、kafka、hadoop、presto等等。欢迎大家关注我的公众号【大数据技术与应用实战】，一起成长。
 - [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
 - [steveloughran/winutils](https://github.com/steveloughran/winutils) - Windows binaries for Hadoop versions (built from the git commit ID used for the ASF relase)
-- [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
+- [work7z/CodeGen](https://github.com/work7z/CodeGen) - This repo is moved to LafTools
 - [luxiaoxun/eagle](https://github.com/luxiaoxun/eagle) - Real time data processing system based on flink and CEP
 - [quxiucheng/apache-calcite-tutorial](https://github.com/quxiucheng/apache-calcite-tutorial) - https://blog.csdn.net/QXC1281/article/details/89070285
 - [HamaWhiteGG/flink-sql-lineage](https://github.com/HamaWhiteGG/flink-sql-lineage) - The Lineage Analysis system for FlinkSQL supports advanced syntax such as Watermark, UDTF, CEP, Windowing TVFs, and CTAS.
