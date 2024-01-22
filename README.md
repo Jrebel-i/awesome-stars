@@ -382,7 +382,7 @@
 
 ## Kotlin 
 
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [kukume/kukubot](https://github.com/kukume/kukubot) - A bot.
@@ -535,7 +535,7 @@
 ## Rust 
 
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
-- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerates all infrastructure faults w/o the need for a PhD.
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [alecmocatta/streaming_algorithms](https://github.com/alecmocatta/streaming_algorithms) - Performant implementations of various streaming algorithms, including Count–min sketch, Top k, HyperLogLog, Reservoir sampling.
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
@@ -549,7 +549,7 @@
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database. Engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP)
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week!
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 
 ## Scala 
