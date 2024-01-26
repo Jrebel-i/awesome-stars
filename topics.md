@@ -195,6 +195,7 @@
 
 ## awesome 
 
+- [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
@@ -207,6 +208,7 @@
 
 ## awesome-list 
 
+- [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -395,6 +397,7 @@
 
 ## database 
 
+- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB's Cascades optimizer framework
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
@@ -775,6 +778,13 @@
 
 ## others 
 
+- [andygrove/how-query-engines-work](https://github.com/andygrove/how-query-engines-work) - This is the companion repository for the book How Query Engines Work.
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
+- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
+- [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites) - 发掘Notion好站
 - [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
 - [yanggggjie/rising-repo](https://github.com/yanggggjie/rising-repo) - 
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
@@ -793,7 +803,6 @@
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
-- [confluentinc/flink-cookbook](https://github.com/confluentinc/flink-cookbook) - 
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [yihong0618/iBeats](https://github.com/yihong0618/iBeats) - Apple Watch 心率数据采集 - Your Soul, Your Beats!
