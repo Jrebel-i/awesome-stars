@@ -930,7 +930,7 @@
 - [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
 - [dbiir/df-bench](https://github.com/dbiir/df-bench) - Benchmark for DataFrame Systems
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
-- [Kerwin1202/chatgpt-web](https://github.com/Kerwin1202/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [knaufk/flink-faker](https://github.com/knaufk/flink-faker) - A data generator source connector for Flink SQL based on data-faker.
 - [michaelmior/calcite-notebooks](https://github.com/michaelmior/calcite-notebooks) - :notebook: A series of Jupyter notebooks to demonstrate the functionality of Apache Calcite
 - [qinsql/QinSQL](https://github.com/qinsql/QinSQL) - AI 时代的智能数据库
