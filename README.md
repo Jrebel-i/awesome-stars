@@ -143,6 +143,7 @@
 
 ## Java 
 
+- [aws-samples/aws-big-data-blog](https://github.com/aws-samples/aws-big-data-blog) - 
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [apache/bigtop](https://github.com/apache/bigtop) - Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components.
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
@@ -601,7 +602,7 @@
 - [cucker0/docker](https://github.com/cucker0/docker) - docker的使用
 - [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - 👾Scripts and samples to support Confluent Demos and Talks. ⚠️Might be rough around the edges ;-) 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
 - [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
-- [aakashnand/trino-ranger-demo](https://github.com/aakashnand/trino-ranger-demo) - 
+- [aakashnand/trino-ranger-demo](https://github.com/aakashnand/trino-ranger-demo) - Tutorial on how to setup Trino and Apache Ranger using docker
 - [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
 - [bluishglc/ranger-emr-cli-installer](https://github.com/bluishglc/ranger-emr-cli-installer) - This is a powerful cli tool for Apache Ranger and AWS EMR automated installation & integration with OpenLDAP & Windows AD. It supports Open-Source Ranger and EMR-Native Ranger both, supports OpenLDAP 
 - [bluishglc/emr-edgenode-maker](https://github.com/bluishglc/emr-edgenode-maker) - This tool can easily make / build an emr cluster edge node / client node / gateway node
