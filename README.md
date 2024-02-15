@@ -542,6 +542,7 @@
 
 ## Rust 
 
+- [apache/arrow-datafusion-comet](https://github.com/apache/arrow-datafusion-comet) - Apache Arrow DataFusion Comet Spark Accelerator
 - [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB's Cascades optimizer framework
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
@@ -587,6 +588,7 @@
 
 ## Shell 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - 
 - [zabetak/calcite-druid-dataset](https://github.com/zabetak/calcite-druid-dataset) - Druid containers used for running the integration tests of Calcite Druid adapter
 - [apache/flink-docker](https://github.com/apache/flink-docker) - Docker packaging for Apache Flink
