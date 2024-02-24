@@ -618,7 +618,7 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
-- [ZhengShuHai/JavaRecord](https://github.com/ZhengShuHai/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
+- [BookSea4j/JavaRecord](https://github.com/BookSea4j/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing inde
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol.
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -757,7 +757,7 @@
 ## mysql 
 
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [ZhengShuHai/JavaRecord](https://github.com/ZhengShuHai/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
+- [BookSea4j/JavaRecord](https://github.com/BookSea4j/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [duhanmin/bigdata-sql-parser](https://github.com/duhanmin/bigdata-sql-parser) - 数据血缘，支持spark sql,hive sql,pg sql,presto sql,mysql sql,tidb sql, flink sql, datax血缘,spark/flink jar 运行命令的血缘解析；支持with语法
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
@@ -1184,7 +1184,7 @@
 - [alecmocatta/streaming_algorithms](https://github.com/alecmocatta/streaming_algorithms) - Performant implementations of various streaming algorithms, including Count–min sketch, Top k, HyperLogLog, Reservoir sampling.
 - [apache/incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
-- [blaze-init/blaze](https://github.com/blaze-init/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+- [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
@@ -1259,7 +1259,7 @@
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) - Apache Arrow Ballista Distributed Query Engine
 - [apache/kyuubi](https://github.com/apache/kyuubi) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
-- [blaze-init/blaze](https://github.com/blaze-init/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+- [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing inde
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
