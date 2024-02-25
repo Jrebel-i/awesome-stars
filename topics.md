@@ -791,6 +791,7 @@
 
 ## others 
 
+- [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 - [aws-samples/amazon-managed-service-for-apache-flink-examples](https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples) - Collection of code examples for Amazon Managed Service for Apache Flink
 - [peizhe/spark-imf-DESKTOP-4DQ7P6D](https://github.com/peizhe/spark-imf-DESKTOP-4DQ7P6D) - 后续整合
 - [aws-samples/aws-big-data-blog](https://github.com/aws-samples/aws-big-data-blog) - 
