@@ -791,6 +791,7 @@
 
 ## others 
 
+- [Shockang/spark-examples](https://github.com/Shockang/spark-examples) - 致力于提供最具实践性的 Spark 代码开发学习指南
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 - [aws-samples/amazon-managed-service-for-apache-flink-examples](https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples) - Collection of code examples for Amazon Managed Service for Apache Flink
 - [peizhe/spark-imf-DESKTOP-4DQ7P6D](https://github.com/peizhe/spark-imf-DESKTOP-4DQ7P6D) - 后续整合
@@ -848,7 +849,7 @@
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
 - [zlzhang0122/flink-source-zh](https://github.com/zlzhang0122/flink-source-zh) - Flink源码阅读分享，不断记录Flink源码的阅读过程
 - [Aiven-Open/tiered-storage-for-apache-kafka](https://github.com/Aiven-Open/tiered-storage-for-apache-kafka) - RemoteStorageManager for Apache Kafka® Tiered Storage
-- [onetable-io/onetable](https://github.com/onetable-io/onetable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
+- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
 - [flowerfine/scaleph](https://github.com/flowerfine/scaleph) - Open data platform based on Kubernetes. Scaleph supports SeaTunnel、Flink and Doris backended by SeaTunnel on Flink engine、Flink Kubernetes Operator and Doris operator.
 - [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 - [carteryh/big-data](https://github.com/carteryh/big-data) - big data study
