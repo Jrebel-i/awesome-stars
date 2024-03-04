@@ -133,7 +133,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
 - [WarrenWen666/AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - A Survey of AI startups
-- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费使用
+- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -257,7 +257,7 @@
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
-- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费使用
+- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy Project：一键部署 go-chatgpt-api 和 ninja 逆向工程
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1338,7 +1338,7 @@
 ## vue 
 
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费使用
+- [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 
 ## vuejs 
