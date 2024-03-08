@@ -982,7 +982,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [kaori-seasons/flink-catalog-in-jdbc](https://github.com/kaori-seasons/flink-catalog-in-jdbc) - 基于flink可以创建物理表的catalog
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [oap-project/gluten](https://github.com/oap-project/gluten) - Gluten: Plugin to Double SparkSQL's Performance
+- [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten: Plugin to Double SparkSQL's Performance
 - [confucianzuoyuan/deep-learning-tutorial](https://github.com/confucianzuoyuan/deep-learning-tutorial) - 
 - [teo-ma/AzureSQLChatGPTDemo](https://github.com/teo-ma/AzureSQLChatGPTDemo) - 
 - [yhyyz/flink-cdc-msk](https://github.com/yhyyz/flink-cdc-msk) - flink-cdc-msk
