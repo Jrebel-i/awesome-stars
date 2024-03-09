@@ -848,7 +848,7 @@
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
 - [zlzhang0122/flink-source-zh](https://github.com/zlzhang0122/flink-source-zh) - Flink源码阅读分享，不断记录Flink源码的阅读过程
 - [Aiven-Open/tiered-storage-for-apache-kafka](https://github.com/Aiven-Open/tiered-storage-for-apache-kafka) - RemoteStorageManager for Apache Kafka® Tiered Storage
-- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
+- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines.
 - [flowerfine/scaleph](https://github.com/flowerfine/scaleph) - Open data platform based on Kubernetes. Scaleph supports SeaTunnel、Flink and Doris backended by SeaTunnel on Flink engine、Flink Kubernetes Operator and Doris operator.
 - [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 - [carteryh/big-data](https://github.com/carteryh/big-data) - big data study
@@ -982,7 +982,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [kaori-seasons/flink-catalog-in-jdbc](https://github.com/kaori-seasons/flink-catalog-in-jdbc) - 基于flink可以创建物理表的catalog
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten: Plugin to Double SparkSQL's Performance
+- [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 - [confucianzuoyuan/deep-learning-tutorial](https://github.com/confucianzuoyuan/deep-learning-tutorial) - 
 - [teo-ma/AzureSQLChatGPTDemo](https://github.com/teo-ma/AzureSQLChatGPTDemo) - 
 - [yhyyz/flink-cdc-msk](https://github.com/yhyyz/flink-cdc-msk) - flink-cdc-msk
