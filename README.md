@@ -403,6 +403,7 @@
 
 ## Others 
 
+- [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [peizhe/spark-imf-DESKTOP-4DQ7P6D](https://github.com/peizhe/spark-imf-DESKTOP-4DQ7P6D) - 后续整合
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
