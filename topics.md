@@ -701,6 +701,7 @@
 
 ## linux 
 
+- [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [intel/PerfSpect](https://github.com/intel/PerfSpect) - System performance characterization tool based on linux perf
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
