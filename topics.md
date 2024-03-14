@@ -858,7 +858,7 @@
 - [flink-ci/flink-mirror](https://github.com/flink-ci/flink-mirror) - 
 - [aws/aws-emr-best-practices](https://github.com/aws/aws-emr-best-practices) - A best practices guide for using AWS EMR. The guide will cover best practices on the topics of cost, performance, security, operational excellence, reliability and application specific best practices 
 - [lihuigang/hive-bitmap-udf](https://github.com/lihuigang/hive-bitmap-udf) - 在hive中使用Roaring64Bitmap实现精确去重功能
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+- [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [dttung2905/flink-at-scale](https://github.com/dttung2905/flink-at-scale) - 📚 Tech blogs & talks by companies that run Apache Flink in production
 - [neoremind/navi-pbrpc](https://github.com/neoremind/navi-pbrpc) - A protobuf based high performance rpc framework leveraging full-duplexing and asynchronous io with netty
 - [neoremind/kraps-rpc](https://github.com/neoremind/kraps-rpc) - A RPC framework leveraging Spark RPC module
