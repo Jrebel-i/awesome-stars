@@ -208,7 +208,7 @@
 - [aws-samples/amazon-kinesis-data-analytics-flink-benchmarking-utility](https://github.com/aws-samples/amazon-kinesis-data-analytics-flink-benchmarking-utility) - Amazon Managed Service for Apache Flink Benchmarking Utility helps with capacity planning, integration testing, and benchmarking of Amazon Managed Service for Apache Flink applications.
 - [zzzzming95/calcite-demo](https://github.com/zzzzming95/calcite-demo) - calcite的相关联系代码，包含CSV适配器，使用CSV适配器来进行SQL查询。SQL的parse和validate，以及RBO和CBO的使用。
 - [cubefs/compass](https://github.com/cubefs/compass) - Compass is a task diagnosis platform for bigdata
-- [apache/flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
+- [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [kaori-seasons/calcite-gremlin-sql](https://github.com/kaori-seasons/calcite-gremlin-sql) - 将一些 SQL 查询转换为 Gremlin 浏览，并针对支持 TinkerPop 3 的图形数据库即可运行
 - [marcelmay/hadoop-hdfs-fsimage-exporter](https://github.com/marcelmay/hadoop-hdfs-fsimage-exporter) - Exports Hadoop HDFS content statistics to Prometheus
 - [alibaba/cost-based-incremental-optimizer](https://github.com/alibaba/cost-based-incremental-optimizer) - 
