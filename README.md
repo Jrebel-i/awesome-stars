@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -366,6 +367,10 @@
 - [work7z/CodeGen](https://github.com/work7z/CodeGen) - This repo is moved to LafTools
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
+## Jinja 
+
+- [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - 
+
 ## Jsonnet 
 
 - [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
@@ -596,7 +601,6 @@
 ## Shell 
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - 
 - [zabetak/calcite-druid-dataset](https://github.com/zabetak/calcite-druid-dataset) - Druid containers used for running the integration tests of Calcite Druid adapter
 - [apache/flink-docker](https://github.com/apache/flink-docker) - Docker packaging for Apache Flink
 - [aws/aws-emr-best-practices](https://github.com/aws/aws-emr-best-practices) - A best practices guide for using AWS EMR. The guide will cover best practices on the topics of cost, performance, security, operational excellence, reliability and application specific best practices 
