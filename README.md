@@ -382,7 +382,7 @@
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [michaelmior/calcite-notebooks](https://github.com/michaelmior/calcite-notebooks) - :notebook: A series of Jupyter notebooks to demonstrate the functionality of Apache Calcite
 - [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [confucianzuoyuan/deep-learning-tutorial](https://github.com/confucianzuoyuan/deep-learning-tutorial) - 
 - [bluishglc/apache-hudi-core-conceptions](https://github.com/bluishglc/apache-hudi-core-conceptions) - A set of notebooks to explore and explain core conceptions of Apache Hudi, such as file layouts, file sizing, compaction, clustering and so on.
 - [Jrebel-i/DeOldify](https://github.com/Jrebel-i/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
@@ -600,6 +600,7 @@
 
 ## Shell 
 
+- [hxhwing/EMR-Managed-Ranger-Plugin](https://github.com/hxhwing/EMR-Managed-Ranger-Plugin) - 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [zabetak/calcite-druid-dataset](https://github.com/zabetak/calcite-druid-dataset) - Druid containers used for running the integration tests of Calcite Druid adapter
 - [apache/flink-docker](https://github.com/apache/flink-docker) - Docker packaging for Apache Flink
