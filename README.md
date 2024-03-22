@@ -439,7 +439,6 @@
 - [jaceklaskowski/spark-kubernetes-book](https://github.com/jaceklaskowski/spark-kubernetes-book) - The Internals of Spark on Kubernetes
 - [sqlcore/presto-teach](https://github.com/sqlcore/presto-teach) - presto、trino资料分享，开发文档、源码阅读、二次开发。
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [k8s-club/k8s-club](https://github.com/k8s-club/k8s-club) - K8s-club for learn, share and explore the K8s world :)
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
@@ -511,6 +510,7 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [jt-zhang/XDU_CS_Learning](https://github.com/jt-zhang/XDU_CS_Learning) - 西安电子科技大学计算机专业经验分享:lollipop:
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [jiran214/GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播
 - [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
