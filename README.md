@@ -275,7 +275,7 @@
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
 - [apache/incubator-uniffle](https://github.com/apache/incubator-uniffle) - Uniffle is a high performance, general purpose Remote Shuffle Service.
-- [apache/incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
+- [apache/celeborn](https://github.com/apache/celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
 - [insightlake/Ranger-Metastore-Plugin](https://github.com/insightlake/Ranger-Metastore-Plugin) - Ranger Hive Metastore Plugin
 - [MyLanPangzi/flink-demo](https://github.com/MyLanPangzi/flink-demo) - Flink Demo
 - [aakashnand/ranger](https://github.com/aakashnand/ranger) - Mirror of Apache Ranger
@@ -298,7 +298,7 @@
 - [zhangjun0x01/bigdata-examples](https://github.com/zhangjun0x01/bigdata-examples) - 分享一些在工作中的大数据实战案例，包括flink、kafka、hadoop、presto等等。欢迎大家关注我的公众号【大数据技术与应用实战】，一起成长。
 - [zhaoyachao/zdh_web](https://github.com/zhaoyachao/zdh_web) - 大数据采集,抽取平台,zdh_web是zdh系列服务的可视化管理平台，包含数据采集,调度,权限,审批流,私域营销等模块
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
-- [apache/paimon](https://github.com/apache/paimon) - Apache Paimon(incubating) is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+- [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为中层框架，以大模型应用为上游产品，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
 - [MoRan1607/BigDataGuide](https://github.com/MoRan1607/BigDataGuide) - 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料
 - [getindata/flink-http-connector](https://github.com/getindata/flink-http-connector) - Http Connector for Apache Flink. Provides sources and sinks for Datastream , Table and SQL APIs.
@@ -407,6 +407,7 @@
 
 ## Others 
 
+- [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [peizhe/spark-imf-DESKTOP-4DQ7P6D](https://github.com/peizhe/spark-imf-DESKTOP-4DQ7P6D) - 后续整合
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
@@ -573,6 +574,7 @@
 
 ## Scala 
 
+- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [Shockang/spark-examples](https://github.com/Shockang/spark-examples) - 致力于提供最具实践性的 Spark 代码开发学习指南
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 - [streamnative/pulsar-spark](https://github.com/streamnative/pulsar-spark) - Spark Connector to read and write with Pulsar
