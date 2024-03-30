@@ -201,7 +201,7 @@
 - [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol.
 - [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
-- [NetEase/amoro](https://github.com/NetEase/amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
+- [apache/incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [birdLark/LarkMidTable](https://github.com/birdLark/LarkMidTable) - LarkMidTable 是一站式开源的数据中台，实现中台的 基础建设，数据治理，数据开发，监控告警，数据服务，数据的可视化，实现高效赋能数据前台并提供数据服务的产品。
 - [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
@@ -406,6 +406,7 @@
 
 ## Others 
 
+- [kjfx/AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 - [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [peizhe/spark-imf-DESKTOP-4DQ7P6D](https://github.com/peizhe/spark-imf-DESKTOP-4DQ7P6D) - 后续整合
