@@ -792,6 +792,7 @@
 
 ## others 
 
+- [kjfx/AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 - [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 - [hxhwing/EMR-Managed-Ranger-Plugin](https://github.com/hxhwing/EMR-Managed-Ranger-Plugin) - 
 - [Shockang/spark-examples](https://github.com/Shockang/spark-examples) - 致力于提供最具实践性的 Spark 代码开发学习指南
@@ -883,7 +884,7 @@
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
-- [NetEase/amoro](https://github.com/NetEase/amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
+- [apache/incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 - [birdLark/LarkMidTable](https://github.com/birdLark/LarkMidTable) - LarkMidTable 是一站式开源的数据中台，实现中台的 基础建设，数据治理，数据开发，监控告警，数据服务，数据的可视化，实现高效赋能数据前台并提供数据服务的产品。
 - [sqlcore/presto-teach](https://github.com/sqlcore/presto-teach) - presto、trino资料分享，开发文档、源码阅读、二次开发。
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
