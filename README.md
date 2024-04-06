@@ -235,7 +235,7 @@
 - [rmetzger/tiny-flink-talk](https://github.com/rmetzger/tiny-flink-talk) - 
 - [kingschan1204/easycrawl](https://github.com/kingschan1204/easycrawl) - 一个java实现的爬虫工具包
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
-- [twalthr/flink-api-examples](https://github.com/twalthr/flink-api-examples) - 
+- [twalthr/flink-api-examples](https://github.com/twalthr/flink-api-examples) - Examples for using Apache Flink® with DataStream API, Table API, Flink SQL and connectors such as MySQL, JDBC, CDC, Kafka.
 - [a0x8o/flink](https://github.com/a0x8o/flink) - Scalable Batch and Stream Data Processing
 - [StarRocks/starrocks-connector-for-apache-flink](https://github.com/StarRocks/starrocks-connector-for-apache-flink) - 
 - [mesmacosta/hive-custom-hook](https://github.com/mesmacosta/hive-custom-hook) - Example on how to implement a hive hook
