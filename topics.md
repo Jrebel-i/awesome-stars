@@ -938,7 +938,7 @@
 - [kingschan1204/easycrawl](https://github.com/kingschan1204/easycrawl) - 一个java实现的爬虫工具包
 - [satanson/cpp_etudes](https://github.com/satanson/cpp_etudes) - smart tools for source code study : cpptree.pl, calltree.pl, javatree.pl, java_calltree.pl
 - [eftales/ldap-videoTutorial](https://github.com/eftales/ldap-videoTutorial) - ldap 视频教程资料
-- [twalthr/flink-api-examples](https://github.com/twalthr/flink-api-examples) - 
+- [twalthr/flink-api-examples](https://github.com/twalthr/flink-api-examples) - Examples for using Apache Flink® with DataStream API, Table API, Flink SQL and connectors such as MySQL, JDBC, CDC, Kafka.
 - [a0x8o/flink](https://github.com/a0x8o/flink) - Scalable Batch and Stream Data Processing
 - [StarRocks/starrocks-connector-for-apache-flink](https://github.com/StarRocks/starrocks-connector-for-apache-flink) - 
 - [ververica/lab-vvp-pyflink](https://github.com/ververica/lab-vvp-pyflink) - 
