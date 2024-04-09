@@ -356,7 +356,7 @@
 - [melin/spark-jobserver](https://github.com/melin/spark-jobserver) - REST job server for Apache Spark
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 - [melin/flink-jobserver](https://github.com/melin/flink-jobserver) - REST job server for Apache Flink
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy) - 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
