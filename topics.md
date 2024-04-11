@@ -1043,7 +1043,7 @@
 - [quxiucheng/apache-calcite-tutorial](https://github.com/quxiucheng/apache-calcite-tutorial) - https://blog.csdn.net/QXC1281/article/details/89070285
 - [HamaWhiteGG/flink-sql-lineage](https://github.com/HamaWhiteGG/flink-sql-lineage) - The Lineage Analysis system for FlinkSQL supports advanced syntax such as Watermark, UDTF, CEP, Windowing TVFs, and CTAS.
 - [flowerfine/flinkful](https://github.com/flowerfine/flinkful) - flink endpoint for open world
-- [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
+- [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous flink connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
 - [yhyyz/emr-hudi-example](https://github.com/yhyyz/emr-hudi-example) - emr-hudi-example
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
