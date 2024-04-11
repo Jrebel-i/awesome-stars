@@ -307,7 +307,7 @@
 - [HamaWhiteGG/flink-sql-lineage](https://github.com/HamaWhiteGG/flink-sql-lineage) - The Lineage Analysis system for FlinkSQL supports advanced syntax such as Watermark, UDTF, CEP, Windowing TVFs, and CTAS.
 - [flowerfine/flinkful](https://github.com/flowerfine/flinkful) - flink endpoint for open world
 - [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.
-- [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
+- [jeff-zou/flink-connector-redis](https://github.com/jeff-zou/flink-connector-redis) - Asynchronous flink connector based on the Lettuce, supporting sql join and sink, query caching and debugging.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [knaufk/statefun-aws-lambda-demo](https://github.com/knaufk/statefun-aws-lambda-demo) - 
 - [zabetak/calcite-tutorial](https://github.com/zabetak/calcite-tutorial) - 
