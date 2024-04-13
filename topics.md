@@ -792,6 +792,7 @@
 
 ## others 
 
+- [GuoNingNing/fire-spark](https://github.com/GuoNingNing/fire-spark) - Spark 脚手架工程，标准化 spark 开发、部署、测试流程。
 - [kjfx/AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 - [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 - [hxhwing/EMR-Managed-Ranger-Plugin](https://github.com/hxhwing/EMR-Managed-Ranger-Plugin) - 
