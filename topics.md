@@ -111,6 +111,7 @@
 - [spring-boot](#spring-boot)
 - [springboot](#springboot)
 - [sql](#sql)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [swift](#swift)
 - [telegram](#telegram)
@@ -1294,6 +1295,11 @@
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [DTStack/flinkStreamSQL](https://github.com/DTStack/flinkStreamSQL) - 基于开源的flink，对其实时sql进行扩展；主要实现了流与维表的join，支持原生flink SQL所有的语法
 - [LinMingQiang/flink-learn](https://github.com/LinMingQiang/flink-learn) - Learning Flink : Flink CEP,Flink Core,Flink SQL
+
+## stable-diffusion 
+
+- [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## svelte 
 
