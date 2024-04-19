@@ -1139,7 +1139,7 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
 - [asdf2014/algorithm](https://github.com/asdf2014/algorithm) - Team up to solve problems on LeetCode together
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -1197,7 +1197,7 @@
 - [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
@@ -1272,7 +1272,7 @@
 - [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing inde
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache DataFusion SQL Query Engine
 - [cubefs/compass](https://github.com/cubefs/compass) - Compass is a task diagnosis platform for bigdata
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
