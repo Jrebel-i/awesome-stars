@@ -610,7 +610,7 @@
 - [apache/flink-docker](https://github.com/apache/flink-docker) - Docker packaging for Apache Flink
 - [aws/aws-emr-best-practices](https://github.com/aws/aws-emr-best-practices) - A best practices guide for using AWS EMR. The guide will cover best practices on the topics of cost, performance, security, operational excellence, reliability and application specific best practices 
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [hxhwing/EMR-Ranger-Integration](https://github.com/hxhwing/EMR-Ranger-Integration) - 
 - [tmcgrath/kafka-connect-examples](https://github.com/tmcgrath/kafka-connect-examples) - Kafka Connect Examples
