@@ -232,7 +232,7 @@
 - [datavane/datasophon](https://github.com/datavane/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data.
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
 - [rmetzger/tiny-flink-talk](https://github.com/rmetzger/tiny-flink-talk) - 
-- [kingschan1204/easycrawl](https://github.com/kingschan1204/easycrawl) - 一个java实现的爬虫工具包
+- [kingschan1204/easyCrawl](https://github.com/kingschan1204/easyCrawl) - 一个java实现的爬虫工具包
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [twalthr/flink-api-examples](https://github.com/twalthr/flink-api-examples) - Examples for using Apache Flink® with DataStream API, Table API, Flink SQL and connectors such as MySQL, JDBC, CDC, Kafka.
 - [a0x8o/flink](https://github.com/a0x8o/flink) - Scalable Batch and Stream Data Processing
