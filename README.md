@@ -286,7 +286,7 @@
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
 - [HamaWhiteGG/flink-sql-security](https://github.com/HamaWhiteGG/flink-sql-security) - FlinkSQL数据脱敏和行级权限解决方案及源码，支持面向用户级别的数据脱敏和行级数据访问控制，即特定用户只能访问到脱敏后的数据或授权过的行。此方案是实时领域Flink的解决方案，类似于离线数仓Hive Ranger中的Row-level Filter和Column Masking方案。
 - [flink-extended/flink-remote-shuffle](https://github.com/flink-extended/flink-remote-shuffle) - Remote Shuffle Service for Flink
 - [luweizheng/flink-tutorials](https://github.com/luweizheng/flink-tutorials) - Flink Tutorial Project
