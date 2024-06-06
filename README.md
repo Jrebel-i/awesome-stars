@@ -39,7 +39,7 @@
 
 ## ANTLR 
 
-- [melin/superior-sql-parser](https://github.com/melin/superior-sql-parser) - 基于antlr4 解析器，支持spark sql, tidb sql, flink sql, Spark/flink jar 运行命令解析器
+- [melin/superior-sql-parser](https://github.com/melin/superior-sql-parser) - 基于 antlr4 的多种数据库SQL解析器，获取SQL中元数据，可用于数据平台产品中的多个场景：ddl语句提取元数据、sql 权限校验、表级血缘、sql语法校验等场景。支持spark、flink、gauss、starrocks、Oracle、MYSQL、Postgresql，sqlserver,、db2等
 
 ## Batchfile 
 
@@ -163,7 +163,7 @@
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
 - [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
-- [datastrato/gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
+- [datastrato/gravitino](https://github.com/datastrato/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
 - [apache/doris-flink-connector](https://github.com/apache/doris-flink-connector) - Flink Connector for Apache Doris
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop
