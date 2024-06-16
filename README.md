@@ -289,7 +289,7 @@
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
 - [HamaWhiteGG/flink-sql-security](https://github.com/HamaWhiteGG/flink-sql-security) - FlinkSQL数据脱敏和行级权限解决方案及源码，支持面向用户级别的数据脱敏和行级数据访问控制，即特定用户只能访问到脱敏后的数据或授权过的行。此方案是实时领域Flink的解决方案，类似于离线数仓Hive Ranger中的Row-level Filter和Column Masking方案。
 - [flink-extended/flink-remote-shuffle](https://github.com/flink-extended/flink-remote-shuffle) - Remote Shuffle Service for Flink
-- [luweizheng/flink-tutorials](https://github.com/luweizheng/flink-tutorials) - Flink Tutorial Project
+- [godaai/flink-book-zh](https://github.com/godaai/flink-book-zh) - Flink Tutorial Project
 - [apache/flink-connector-aws](https://github.com/apache/flink-connector-aws) - Apache flink
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [RealtimeCompute/ververica-cep-demo](https://github.com/RealtimeCompute/ververica-cep-demo) - Demo of Flink CEP with dynamic patterns
