@@ -1038,7 +1038,7 @@
 - [awsdocs/amazon-emr-management-guide](https://github.com/awsdocs/amazon-emr-management-guide) - The open source version of the Amazon EMR Management Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 - [flink-extended/flink-remote-shuffle](https://github.com/flink-extended/flink-remote-shuffle) - Remote Shuffle Service for Flink
 - [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
-- [luweizheng/flink-tutorials](https://github.com/luweizheng/flink-tutorials) - Flink Tutorial Project
+- [godaai/flink-book-zh](https://github.com/godaai/flink-book-zh) - Flink Tutorial Project
 - [spark-redshift-community/spark-redshift](https://github.com/spark-redshift-community/spark-redshift) - Performant Redshift data source for Apache Spark
 - [bluishglc/emr-edgenode-maker](https://github.com/bluishglc/emr-edgenode-maker) - This tool can easily make / build an emr cluster edge node / client node / gateway node
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
