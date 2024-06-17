@@ -143,6 +143,7 @@
 
 ## Java 
 
+- [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 - [aws-samples/amazon-managed-service-for-apache-flink-examples](https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples) - Collection of code examples for Amazon Managed Service for Apache Flink
 - [aws-samples/aws-big-data-blog](https://github.com/aws-samples/aws-big-data-blog) - 
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
