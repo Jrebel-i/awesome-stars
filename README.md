@@ -370,7 +370,7 @@
 
 ## Jinja 
 
-- [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - 
+- [awesome-kyuubi/hadoop-testing](https://github.com/awesome-kyuubi/hadoop-testing) - Testing Sandbox for Hadoop Ecosystem Components
 
 ## Jsonnet 
 
