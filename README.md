@@ -164,7 +164,7 @@
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
 - [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
-- [datastrato/gravitino](https://github.com/datastrato/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+- [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 - [nICEnnnnnnnLee/BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
 - [apache/doris-flink-connector](https://github.com/apache/doris-flink-connector) - Flink Connector for Apache Doris
 - [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop
