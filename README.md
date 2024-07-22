@@ -48,6 +48,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [canonical/raft](https://github.com/canonical/raft) - Unmaintained C implementation of the Raft consensus protocol
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
 - [jean553/c-simd-avx2-example](https://github.com/jean553/c-simd-avx2-example) - Simple SIMD example in C (AVX2 Vectorization)
