@@ -804,6 +804,7 @@
 
 ## others 
 
+- [awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore](https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore) - The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational meta
 - [polaris-catalog/polaris](https://github.com/polaris-catalog/polaris) - The interoperable, open source catalog for Apache Iceberg
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [awslabs/aws-glue-catalog-sync-agent-for-hive](https://github.com/awslabs/aws-glue-catalog-sync-agent-for-hive) - Enables synchronizing metadata changes (Create/Drop table/partition) from Hive Metastore to AWS Glue Data Catalog
