@@ -804,6 +804,8 @@
 
 ## others 
 
+- [yanagishima/yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Trino, Hive and SparkSQL
+- [apache/gravitino-playground](https://github.com/apache/gravitino-playground) - A playground to experience Gravitino
 - [awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore](https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore) - The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational meta
 - [polaris-catalog/polaris](https://github.com/polaris-catalog/polaris) - The interoperable, open source catalog for Apache Iceberg
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -1209,6 +1211,7 @@
 
 ## rust 
 
+- [apache/paimon-rust](https://github.com/apache/paimon-rust) - Apache Paimon Rust The rust implementation of Apache Paimon.
 - [apache/datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
