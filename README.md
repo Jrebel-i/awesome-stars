@@ -507,7 +507,7 @@
 
 ## Python 
 
-- [polaris-catalog/polaris](https://github.com/polaris-catalog/polaris) - The interoperable, open source catalog for Apache Iceberg
+- [apache/polaris](https://github.com/apache/polaris) - The interoperable, open source catalog for Apache Iceberg
 - [gangly/datafaker](https://github.com/gangly/datafaker) - Datafaker is a large-scale test data and flow test data generation tool. Datafaker fakes data and inserts to  varied data sources. 测试数据生成工具
 - [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
@@ -586,6 +586,7 @@
 
 ## Scala 
 
+- [apache/hbase-connectors](https://github.com/apache/hbase-connectors) - Apache HBase Connectors
 - [GuoNingNing/fire-spark](https://github.com/GuoNingNing/fire-spark) - Spark 脚手架工程，标准化 spark 开发、部署、测试流程。
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [Shockang/spark-examples](https://github.com/Shockang/spark-examples) - 致力于提供最具实践性的 Spark 代码开发学习指南
