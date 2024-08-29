@@ -21,6 +21,7 @@
 - [bash](#bash)
 - [bot](#bot)
 - [c](#c)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -253,6 +254,10 @@
 
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [asdf2014/algorithm](https://github.com/asdf2014/algorithm) - Team up to solve problems on LeetCode together
+
+## chatbot 
+
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 ## chatgpt 
 
