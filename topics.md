@@ -65,6 +65,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -660,6 +661,10 @@
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 
+## jupyter-notebook 
+
+- [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
+
 ## kotlin 
 
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
@@ -809,6 +814,7 @@
 
 ## others 
 
+- [aws-samples/aws-emr-cost-toolbox](https://github.com/aws-samples/aws-emr-cost-toolbox) - 
 - [aws-samples/emr-remote-shuffle-service](https://github.com/aws-samples/emr-remote-shuffle-service) - 
 - [yanagishima/yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Trino, Hive and SparkSQL
 - [apache/gravitino-playground](https://github.com/apache/gravitino-playground) - A playground to experience Gravitino
