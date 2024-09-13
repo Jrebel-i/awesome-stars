@@ -814,6 +814,8 @@
 
 ## others 
 
+- [tabular-io/iceberg-kafka-connect](https://github.com/tabular-io/iceberg-kafka-connect) - 
+- [aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker](https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker) - This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement score tracker to monitor unused Amazon EC2 Spot Instance capacity.
 - [aws-samples/aws-emr-cost-toolbox](https://github.com/aws-samples/aws-emr-cost-toolbox) - 
 - [aws-samples/emr-remote-shuffle-service](https://github.com/aws-samples/emr-remote-shuffle-service) - 
 - [yanagishima/yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Trino, Hive and SparkSQL
