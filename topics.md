@@ -814,6 +814,7 @@
 
 ## others 
 
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [tabular-io/iceberg-kafka-connect](https://github.com/tabular-io/iceberg-kafka-connect) - 
 - [aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker](https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker) - This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement score tracker to monitor unused Amazon EC2 Spot Instance capacity.
 - [aws-samples/aws-emr-cost-toolbox](https://github.com/aws-samples/aws-emr-cost-toolbox) - 
@@ -1150,6 +1151,7 @@
 ## powershell 
 
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for every system!
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## programming 
 
