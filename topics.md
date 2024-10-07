@@ -950,7 +950,6 @@
 - [linkedin/coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 - [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
 - [apache/amoro](https://github.com/apache/amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 - [birdLark/LarkMidTable](https://github.com/birdLark/LarkMidTable) - LarkMidTable 是一站式开源的数据中台，实现中台的 基础建设，数据治理，数据开发，监控告警，数据服务，数据的可视化，实现高效赋能数据前台并提供数据服务的产品。
@@ -1267,6 +1266,7 @@
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
