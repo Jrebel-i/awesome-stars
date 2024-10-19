@@ -102,6 +102,7 @@
 
 ## Dockerfile 
 
+- [ververica/ververica-ff-2024-dd2-sql-training](https://github.com/ververica/ververica-ff-2024-dd2-sql-training) - Flink Forward 2024, Deep Dives Session 2 repository
 - [wirelessr/flink-iceberg-playground](https://github.com/wirelessr/flink-iceberg-playground) - minio as local storage and DynamoDB as catalog
 - [dafei1288/flink-yarn-docker](https://github.com/dafei1288/flink-yarn-docker) - Run flink on docker containers.
 
@@ -444,7 +445,7 @@
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告
 - [AngersZhuuuu/Angerszhuuuu.github.io](https://github.com/AngersZhuuuu/Angerszhuuuu.github.io) - 
 - [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
 - [jaceklaskowski/spark-kubernetes-book](https://github.com/jaceklaskowski/spark-kubernetes-book) - The Internals of Spark on Kubernetes
