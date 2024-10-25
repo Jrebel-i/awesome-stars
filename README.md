@@ -278,7 +278,7 @@
 - [openinx/minibase](https://github.com/openinx/minibase) - An embedded KV storage engine for learning HBase
 - [eyesmoons/data-lineage-doris](https://github.com/eyesmoons/data-lineage-doris) - Doris表和字段血缘项目
 - [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 - [WeBankFinTech/Qualitis](https://github.com/WeBankFinTech/Qualitis) - Qualitis is a one-stop data quality management platform that supports quality verification, notification, and management for various datasource. It is used to solve various data quality problems cause
 - [felixzh2020/felixzh-flink-examples](https://github.com/felixzh2020/felixzh-flink-examples) - felixzh的Flink生态实战案例（use case）
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
