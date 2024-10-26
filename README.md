@@ -79,7 +79,7 @@
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A composable and fully extensible C++ execution engine library.
 - [satanson/cpp_etudes](https://github.com/satanson/cpp_etudes) - smart tools for source code study : cpptree.pl, calltree.pl, javatree.pl, java_calltree.pl
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
@@ -445,7 +445,7 @@
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置
 - [AngersZhuuuu/Angerszhuuuu.github.io](https://github.com/AngersZhuuuu/Angerszhuuuu.github.io) - 
 - [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
 - [jaceklaskowski/spark-kubernetes-book](https://github.com/jaceklaskowski/spark-kubernetes-book) - The Internals of Spark on Kubernetes
@@ -637,7 +637,7 @@
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy Project：一键部署 go-chatgpt-api 和 ninja 逆向工程
 - [apache/flink-shaded](https://github.com/apache/flink-shaded) - Apache Flink shaded artifacts repository
 - [cucker0/docker](https://github.com/cucker0/docker) - docker的使用
-- [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - 👾Scripts and samples to support Confluent Demos and Talks. ⚠️Might be rough around the edges ;-) 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
+- [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - 👾Scripts and samples to support Confluent Demos and Talks up until Oct '24. ⚠️ No longer maintained 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
 - [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
 - [aakashnand/trino-ranger-demo](https://github.com/aakashnand/trino-ranger-demo) - Tutorial on how to setup Trino and Apache Ranger using docker
 - [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
