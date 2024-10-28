@@ -1080,7 +1080,7 @@
 - [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
 - [fivesheep/chnroutes](https://github.com/fivesheep/chnroutes) - scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn
 - [aws-samples/aws-emr-apache-ranger](https://github.com/aws-samples/aws-emr-apache-ranger) - 
-- [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 
+- [Ponderfly/GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 扫描国内可用的谷歌翻译IP
 - [aakashnand/ranger](https://github.com/aakashnand/ranger) - Mirror of Apache Ranger
 - [ververica/flink-sql-benchmark](https://github.com/ververica/flink-sql-benchmark) - 
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) - A RocksDB compatible KV storage engine with better performance
