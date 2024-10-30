@@ -264,7 +264,7 @@
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [dafei1288/flink-connector-opengauss](https://github.com/dafei1288/flink-connector-opengauss) - flink-connector-opengauss （unofficial）
 - [SophiaData/Bigdata_Code_Tutorial](https://github.com/SophiaData/Bigdata_Code_Tutorial) - Flink cdc 整库同步 & flink 代码 demo
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Easy Redis Java client and Real-Time Data Platform. Valkey compatible. Sync/Async/RxJava/Reactive API. Over 50 Redis or Valkey based Java objects and services: Set, Multimap, SortedSet, Map
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis or Valkey based Java objects and services: Set, Multimap, SortedSet, Map, List, Q
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [miaowenting/calcite-learning](https://github.com/miaowenting/calcite-learning) - learn calcite sql parsing
 - [lixz3321/flink-connector-jdbc-ext](https://github.com/lixz3321/flink-connector-jdbc-ext) - 这是一个扩展的flink-connector-jdbc，相比于官方，该版本新增了对clickhouse、phoenix的支持，后面将会继续改造以支持更多的jdbc连接
@@ -273,7 +273,7 @@
 - [decaywood/XueQiuSuperSpider](https://github.com/decaywood/XueQiuSuperSpider) - 雪球股票信息超级爬虫
 - [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools) - Apache HBase Operator Tools
 - [kaori-seasons/flink-catalog-in-jdbc](https://github.com/kaori-seasons/flink-catalog-in-jdbc) - 基于flink可以创建物理表的catalog
-- [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+- [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT-4o、 GPT4 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered appli
 - [pierre94/minibase](https://github.com/pierre94/minibase) - An embedded KV storage engine for learning HBase
 - [openinx/minibase](https://github.com/openinx/minibase) - An embedded KV storage engine for learning HBase
 - [eyesmoons/data-lineage-doris](https://github.com/eyesmoons/data-lineage-doris) - Doris表和字段血缘项目
