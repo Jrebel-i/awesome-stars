@@ -311,7 +311,6 @@
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。采购商业版、加入技术社区：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
-- [MoRan1607/BigDataGuide](https://github.com/MoRan1607/BigDataGuide) - 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料
 - [getindata/flink-http-connector](https://github.com/getindata/flink-http-connector) - Http Connector for Apache Flink. Provides sources and sinks for Datastream , Table and SQL APIs.
 - [luxiaoxun/eagle](https://github.com/luxiaoxun/eagle) - Real time data processing system based on flink and CEP
 - [quxiucheng/apache-calcite-tutorial](https://github.com/quxiucheng/apache-calcite-tutorial) - https://blog.csdn.net/QXC1281/article/details/89070285
@@ -446,7 +445,7 @@
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 不完全指北
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 资源库 | 不完全指北
 - [AngersZhuuuu/Angerszhuuuu.github.io](https://github.com/AngersZhuuuu/Angerszhuuuu.github.io) - 
 - [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
 - [jaceklaskowski/spark-kubernetes-book](https://github.com/jaceklaskowski/spark-kubernetes-book) - The Internals of Spark on Kubernetes
@@ -485,6 +484,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [awsdocs/amazon-emr-management-guide](https://github.com/awsdocs/amazon-emr-management-guide) - The open source version of the Amazon EMR Management Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+- [MoRan1607/BigDataGuide](https://github.com/MoRan1607/BigDataGuide) - 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [leesf/hudi-resources](https://github.com/leesf/hudi-resources) - 汇总Apache Hudi相关资料
