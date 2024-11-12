@@ -564,7 +564,6 @@
 
 ## hacktoberfest 
 
-- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -864,6 +863,7 @@
 - [GuoNingNing/fire-spark](https://github.com/GuoNingNing/fire-spark) - Spark 脚手架工程，标准化 spark 开发、部署、测试流程。
 - [kjfx/AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 - [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
+- [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [hxhwing/EMR-Managed-Ranger-Plugin](https://github.com/hxhwing/EMR-Managed-Ranger-Plugin) - 
 - [Shockang/spark-examples](https://github.com/Shockang/spark-examples) - 致力于提供最具实践性的 Spark 代码开发学习指南
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
