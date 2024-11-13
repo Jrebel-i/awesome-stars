@@ -80,7 +80,6 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [microsoft](#microsoft)
-- [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
@@ -765,10 +764,6 @@
 - [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
-## mongodb 
-
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
-
 ## monitoring 
 
 - [intel/PerfSpect](https://github.com/intel/PerfSpect) - System performance analysis and characterization tool
@@ -1291,6 +1286,7 @@
 ## security 
 
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [HamaWhiteGG/flink-sql-security](https://github.com/HamaWhiteGG/flink-sql-security) - FlinkSQL数据脱敏和行级权限解决方案及源码，支持面向用户级别的数据脱敏和行级数据访问控制，即特定用户只能访问到脱敏后的数据或授权过的行。此方案是实时领域Flink的解决方案，类似于离线数仓Hive Ranger中的Row-level Filter和Column Masking方案。
 
@@ -1404,7 +1400,6 @@
 
 ## terraform 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
