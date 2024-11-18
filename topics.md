@@ -841,6 +841,8 @@
 
 ## others 
 
+- [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
+- [microgrape/ladder](https://github.com/microgrape/ladder) - 使用路由器安装ss客户端，实现全家科学上网/翻墙/梯子
 - [ververica/ververica-ff-2024-dd2-sql-training](https://github.com/ververica/ververica-ff-2024-dd2-sql-training) - Flink Forward 2024, Deep Dives Session 2 repository
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [databricks/iceberg-kafka-connect](https://github.com/databricks/iceberg-kafka-connect) - 
