@@ -423,6 +423,7 @@
 
 ## Others 
 
+- [microgrape/ladder](https://github.com/microgrape/ladder) - 使用路由器安装ss客户端，实现全家科学上网/翻墙/梯子
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [kjfx/AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 - [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
@@ -627,6 +628,7 @@
 
 ## Shell 
 
+- [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
 - [aws-samples/emr-remote-shuffle-service](https://github.com/aws-samples/emr-remote-shuffle-service) - 
 - [hxhwing/EMR-Managed-Ranger-Plugin](https://github.com/hxhwing/EMR-Managed-Ranger-Plugin) - 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
