@@ -897,7 +897,7 @@
 - [tikv/raft-engine](https://github.com/tikv/raft-engine) - A persistent storage engine for Multi-Raft log
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [yihong0618/iBeats](https://github.com/yihong0618/iBeats) - Apple Watch 心率数据采集 - Your Soul, Your Beats!
 - [apache/gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
