@@ -642,7 +642,7 @@
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy Project：一键部署 go-chatgpt-api 和 ninja 逆向工程
 - [apache/flink-shaded](https://github.com/apache/flink-shaded) - Apache Flink shaded artifacts repository
 - [cucker0/docker](https://github.com/cucker0/docker) - docker的使用
-- [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - 👾Scripts and samples to support Confluent Demos and Talks up until Oct '24. ⚠️ No longer maintained 👉For automated tutorials and QA'd code, see https://github.com/confluentinc/examples/
+- [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluen
 - [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
 - [aakashnand/trino-ranger-demo](https://github.com/aakashnand/trino-ranger-demo) - Tutorial on how to setup Trino and Apache Ranger using docker
 - [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
