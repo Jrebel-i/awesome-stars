@@ -124,7 +124,7 @@
 - [openacid/paxoskv](https://github.com/openacid/paxoskv) - Naive and Basic impl of a kv-storage based on paxos; for https://blog.openacid.com/algo/paxos/
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3's performance from any location.
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
@@ -158,6 +158,7 @@
 - [databricks/iceberg-kafka-connect](https://github.com/databricks/iceberg-kafka-connect) - 
 - [yanagishima/yanagishima](https://github.com/yanagishima/yanagishima) - Web UI for Trino, Hive and SparkSQL
 - [awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore](https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore) - The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational meta
+- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 - [awslabs/aws-glue-catalog-sync-agent-for-hive](https://github.com/awslabs/aws-glue-catalog-sync-agent-for-hive) - Enables synchronizing metadata changes (Create/Drop table/partition) from Hive Metastore to AWS Glue Data Catalog
 - [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 - [aws-samples/amazon-managed-service-for-apache-flink-examples](https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples) - Collection of code examples for Amazon Managed Service for Apache Flink
@@ -518,7 +519,6 @@
 - [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 - [aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker](https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker) - This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement score tracker to monitor unused Amazon EC2 Spot Instance capacity.
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
-- [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 - [gangly/datafaker](https://github.com/gangly/datafaker) - Datafaker is a large-scale test data and flow test data generation tool. Datafaker fakes data and inserts to  varied data sources. 测试数据生成工具
 - [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
@@ -592,7 +592,7 @@
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine (database) in a week.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 
 ## Scala 
