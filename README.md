@@ -264,7 +264,7 @@
 - [apache/flink-playgrounds](https://github.com/apache/flink-playgrounds) - Apache Flink Playgrounds
 - [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns) - 使用最浅显的语言呈现设计模式，力争让每一位程序员都看得懂
 - [melin/flink-cdc-catalog](https://github.com/melin/flink-cdc-catalog) - 
-- [melin/sqlflow](https://github.com/melin/sqlflow) - 数据血缘
+- [melin/sqlflow](https://github.com/melin/sqlflow) - 解析 SQL 字段数据血缘
 - [jeff-zou/flink-catalog-in-jdbc](https://github.com/jeff-zou/flink-catalog-in-jdbc) - 
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [dafei1288/flink-connector-opengauss](https://github.com/dafei1288/flink-connector-opengauss) - flink-connector-opengauss （unofficial）
