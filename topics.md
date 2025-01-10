@@ -1021,7 +1021,7 @@
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns) - 使用最浅显的语言呈现设计模式，力争让每一位程序员都看得懂
 - [melin/flink-cdc-catalog](https://github.com/melin/flink-cdc-catalog) - 
-- [melin/sqlflow](https://github.com/melin/sqlflow) - 数据血缘
+- [melin/sqlflow](https://github.com/melin/sqlflow) - 解析 SQL 字段数据血缘
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [zouhuigang/book](https://github.com/zouhuigang/book) - 📕📗📘收集的各种书籍,pdf,ppt,doc资料，下载链接永久有效！
