@@ -839,6 +839,7 @@
 
 ## others 
 
+- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
 - [johnzeng/rocksdb-doc-cn](https://github.com/johnzeng/rocksdb-doc-cn) - 中文版rocksdb文档
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
