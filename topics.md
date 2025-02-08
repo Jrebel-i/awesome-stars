@@ -839,6 +839,7 @@
 
 ## others 
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [wyf3/llm_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
 - [johnzeng/rocksdb-doc-cn](https://github.com/johnzeng/rocksdb-doc-cn) - 中文版rocksdb文档
