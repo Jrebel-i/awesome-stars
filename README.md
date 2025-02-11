@@ -161,7 +161,6 @@
 - [awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore](https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore) - The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational meta
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 - [awslabs/aws-glue-catalog-sync-agent-for-hive](https://github.com/awslabs/aws-glue-catalog-sync-agent-for-hive) - Enables synchronizing metadata changes (Create/Drop table/partition) from Hive Metastore to AWS Glue Data Catalog
-- [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 - [aws-samples/amazon-managed-service-for-apache-flink-examples](https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples) - Collection of code examples for Amazon Managed Service for Apache Flink
 - [aws-samples/aws-big-data-blog](https://github.com/aws-samples/aws-big-data-blog) - 
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -289,7 +288,7 @@
 - [felixzh2020/felixzh-flink-examples](https://github.com/felixzh2020/felixzh-flink-examples) - felixzh的Flink生态实战案例（use case）
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
+- [apache/streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
 - [apache/incubator-uniffle](https://github.com/apache/incubator-uniffle) - Uniffle is a high performance, general purpose Remote Shuffle Service.
 - [apache/celeborn](https://github.com/apache/celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
 - [insightlake/Ranger-Metastore-Plugin](https://github.com/insightlake/Ranger-Metastore-Plugin) - Ranger Hive Metastore Plugin
@@ -524,6 +523,7 @@
 - [aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker](https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker) - This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement score tracker to monitor unused Amazon EC2 Spot Instance capacity.
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
 - [gangly/datafaker](https://github.com/gangly/datafaker) - Datafaker is a large-scale test data and flow test data generation tool. Datafaker fakes data and inserts to  varied data sources. 测试数据生成工具
+- [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 - [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
