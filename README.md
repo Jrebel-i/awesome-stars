@@ -118,7 +118,7 @@
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) - 
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [intel/PerfSpect](https://github.com/intel/PerfSpect) - System performance analysis and characterization tool
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
