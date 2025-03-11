@@ -293,7 +293,7 @@
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
 - [apache/streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
-- [apache/incubator-uniffle](https://github.com/apache/incubator-uniffle) - Uniffle is a high performance, general purpose Remote Shuffle Service.
+- [apache/uniffle](https://github.com/apache/uniffle) - Uniffle is a high performance, general purpose Remote Shuffle Service.
 - [apache/celeborn](https://github.com/apache/celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
 - [insightlake/Ranger-Metastore-Plugin](https://github.com/insightlake/Ranger-Metastore-Plugin) - Ranger Hive Metastore Plugin
 - [MyLanPangzi/flink-demo](https://github.com/MyLanPangzi/flink-demo) - Flink Demo
