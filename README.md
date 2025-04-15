@@ -92,6 +92,7 @@
 
 ## CSS 
 
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [slippersheepig/chatgpt-web](https://github.com/slippersheepig/chatgpt-web) - 使用官方ChatGPT API实现简单HTML网页版在线聊天（支持markdown语法、多用户会话隔离及连续对话）
 
 ## Dart 
@@ -143,7 +144,6 @@
 ## HTML 
 
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
-- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -438,6 +438,7 @@
 - [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites) - 发掘Notion好站
 - [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
 - [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
+- [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [TheodoreKrypton/slacking-off-tools](https://github.com/TheodoreKrypton/slacking-off-tools) - 上班摸鱼工具集
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
@@ -548,7 +549,6 @@
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [1061700625/WeChat_Article](https://github.com/1061700625/WeChat_Article) - 爬取微信公众号文章
 - [aws/aws-emr-containers-best-practices](https://github.com/aws/aws-emr-containers-best-practices) - Best practices and recommendations for getting started with Amazon EMR on EKS.
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [dbiir/df-bench](https://github.com/dbiir/df-bench) - Benchmark for DataFrame Systems
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
