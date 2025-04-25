@@ -73,6 +73,7 @@
 - [language](#language)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learning](#learning)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -91,7 +92,6 @@
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [openai](#openai)
-- [operating-system](#operating-system)
 - [others](#others)
 - [parsing](#parsing)
 - [php](#php)
@@ -422,6 +422,7 @@
 
 ## database 
 
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - 聊天记录工具，轻松使用自己的聊天数据
 - [apache/hbase-connectors](https://github.com/apache/hbase-connectors) - Apache HBase Connectors
 - [cmu-db/optd-original](https://github.com/cmu-db/optd-original) - CMU-DB's Cascades optimizer framework
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -721,6 +722,10 @@
 
 - [Jacobbishopxy/poma-notes](https://github.com/Jacobbishopxy/poma-notes) - Notes of Principles of Mathematical Analysis
 
+## learning 
+
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
+
 ## library 
 
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
@@ -843,10 +848,6 @@
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
-
-## operating-system 
-
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2025年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
 
 ## others 
 
