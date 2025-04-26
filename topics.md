@@ -422,7 +422,7 @@
 
 ## database 
 
-- [sjzar/chatlog](https://github.com/sjzar/chatlog) - 聊天记录工具，轻松使用自己的聊天数据
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [apache/hbase-connectors](https://github.com/apache/hbase-connectors) - Apache HBase Connectors
 - [cmu-db/optd-original](https://github.com/cmu-db/optd-original) - CMU-DB's Cascades optimizer framework
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
