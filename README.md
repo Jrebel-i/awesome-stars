@@ -392,7 +392,7 @@
 
 ## Jupyter Notebook 
 
-- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
+- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 - [aws-samples/aws-emr-cost-toolbox](https://github.com/aws-samples/aws-emr-cost-toolbox) - 
 - [apache/gravitino-playground](https://github.com/apache/gravitino-playground) - A playground to experience Gravitino
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
