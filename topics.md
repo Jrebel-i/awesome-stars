@@ -852,7 +852,7 @@
 
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 记录大模型相关的一些知识和方法
+- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 - [johnzeng/rocksdb-doc-cn](https://github.com/johnzeng/rocksdb-doc-cn) - 中文版rocksdb文档
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks
