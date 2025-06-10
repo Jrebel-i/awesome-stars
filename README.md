@@ -105,6 +105,7 @@
 
 ## Dockerfile 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [ververica/ververica-ff-2024-dd2-sql-training](https://github.com/ververica/ververica-ff-2024-dd2-sql-training) - Flink Forward 2024, Deep Dives Session 2 repository
 - [wirelessr/flink-iceberg-playground](https://github.com/wirelessr/flink-iceberg-playground) - minio as local storage and DynamoDB as catalog
 - [dafei1288/flink-yarn-docker](https://github.com/dafei1288/flink-yarn-docker) - Run flink on docker containers.
