@@ -394,7 +394,6 @@
 
 ## Jupyter Notebook 
 
-- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 - [aws-samples/aws-emr-cost-toolbox](https://github.com/aws-samples/aws-emr-cost-toolbox) - 
 - [apache/gravitino-playground](https://github.com/apache/gravitino-playground) - A playground to experience Gravitino
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
@@ -533,6 +532,7 @@
 - [sngyai/Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
 - [wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [wyf3/llm_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 - [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 - [aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker](https://github.com/aws-solutions-library-samples/guidance-for-ec2-spot-placement-score-tracker) - This Guidance shows how to build an Amazon Elastic Compute Cloud (Amazon EC2) Spot placement score tracker to monitor unused Amazon EC2 Spot Instance capacity.
 - [jupyter-incubator/sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
@@ -598,7 +598,7 @@
 - [alecmocatta/streaming_algorithms](https://github.com/alecmocatta/streaming_algorithms) - Performant implementations of various streaming algorithms, including Count–min sketch, Top k, HyperLogLog, Reservoir sampling.
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [kwai/blaze](https://github.com/kwai/blaze) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
