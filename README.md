@@ -272,7 +272,7 @@
 - [melin/flink-cdc-catalog](https://github.com/melin/flink-cdc-catalog) - 
 - [melin/sqlflow](https://github.com/melin/sqlflow) - 解析 SQL 字段数据血缘
 - [jeff-zou/flink-catalog-in-jdbc](https://github.com/jeff-zou/flink-catalog-in-jdbc) - 
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [dafei1288/flink-connector-opengauss](https://github.com/dafei1288/flink-connector-opengauss) - flink-connector-opengauss （unofficial）
 - [SophiaData/Bigdata_Code_Tutorial](https://github.com/SophiaData/Bigdata_Code_Tutorial) - Flink cdc 整库同步 & flink 代码 demo
 - [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, De
