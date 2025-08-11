@@ -456,7 +456,7 @@
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance) - OLAP Database Performance Tuning Guide
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
