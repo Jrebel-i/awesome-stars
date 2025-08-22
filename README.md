@@ -284,7 +284,7 @@
 - [decaywood/XueQiuSuperSpider](https://github.com/decaywood/XueQiuSuperSpider) - 雪球股票信息超级爬虫
 - [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools) - Apache HBase Operator Tools
 - [kaori-seasons/flink-catalog-in-jdbc](https://github.com/kaori-seasons/flink-catalog-in-jdbc) - 基于flink可以创建物理表的catalog
-- [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT-4o、 GPT4 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered appli
+- [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT-4o、 GPT-5 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applic
 - [pierre94/minibase](https://github.com/pierre94/minibase) - An embedded KV storage engine for learning HBase
 - [openinx/minibase](https://github.com/openinx/minibase) - An embedded KV storage engine for learning HBase
 - [eyesmoons/data-lineage-doris](https://github.com/eyesmoons/data-lineage-doris) - Doris表和字段血缘项目
