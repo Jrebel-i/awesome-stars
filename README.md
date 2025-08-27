@@ -540,7 +540,6 @@
 - [eosphoros-ai/sqlgpt-parser](https://github.com/eosphoros-ai/sqlgpt-parser) - sqlgpt-parser is a Python implementation of an SQL parser that effectively converts SQL statements into Abstract Syntax Trees (AST). By leveraging AST tree comparisons between two SQL queries, it beco
 - [yihong0618/iBeats](https://github.com/yihong0618/iBeats) - Apple Watch 心率数据采集 - Your Soul, Your Beats!
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
@@ -594,7 +593,7 @@
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [alecmocatta/streaming_algorithms](https://github.com/alecmocatta/streaming_algorithms) - Performant implementations of various streaming algorithms, including Count–min sketch, Top k, HyperLogLog, Reservoir sampling.
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
-- [kwai/auron](https://github.com/kwai/auron) - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+- [kwai/auron](https://github.com/kwai/auron) - The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
@@ -688,6 +687,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications. Set up development environments for any programming language or framework, deploy high-av
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
