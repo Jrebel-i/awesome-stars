@@ -593,7 +593,7 @@
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [alecmocatta/streaming_algorithms](https://github.com/alecmocatta/streaming_algorithms) - Performant implementations of various streaming algorithms, including Count–min sketch, Top k, HyperLogLog, Reservoir sampling.
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
-- [kwai/auron](https://github.com/kwai/auron) - The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
+- [apache/auron](https://github.com/apache/auron) - The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
