@@ -980,7 +980,7 @@
 - [adamyi/wechrome](https://github.com/adamyi/wechrome) - Chrome extension to unblock web wechat
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [wangzzu/awesome](https://github.com/wangzzu/awesome) - 不积硅步，无以至千里
-- [apache/auron](https://github.com/apache/auron) - The Auron accelerator for  distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
+- [apache/auron](https://github.com/apache/auron) - The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
