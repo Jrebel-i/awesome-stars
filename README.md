@@ -249,7 +249,7 @@
 - [duhanmin/bigdata-sql-parser](https://github.com/duhanmin/bigdata-sql-parser) - 数据血缘，支持spark sql,hive sql,pg sql,presto sql,mysql sql,tidb sql, flink sql, datax血缘,spark/flink jar 运行命令的血缘解析；支持with语法
 - [0xqq/bigdata-sql-parser](https://github.com/0xqq/bigdata-sql-parser) - 基于antlr4 解析器，支持spark sql, tidb sql, flink sql, Spark/flink jar 运行命令解析器
 - [janino-compiler/janino](https://github.com/janino-compiler/janino) - Janino is a super-small, super-fast Java™ compiler.
-- [LB-Yu/data-systems-learning](https://github.com/LB-Yu/data-systems-learning) - Learning summary and examples about data systems.
+- [LiebingYu/data-systems-learning](https://github.com/LiebingYu/data-systems-learning) - Learning summary and examples about data systems.
 - [brianfrankcooper/YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [xiaozhch5/calcite-learning](https://github.com/xiaozhch5/calcite-learning) - 
 - [iflytek/datasophon](https://github.com/iflytek/datasophon) - The next generation of cloud-native big data management expert , Aims to help users rapidly build stable, efficient, and scalable cloud-native platforms for big data.
