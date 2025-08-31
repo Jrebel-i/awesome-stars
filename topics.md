@@ -1037,7 +1037,7 @@
 - [0xqq/bigdata-sql-parser](https://github.com/0xqq/bigdata-sql-parser) - 基于antlr4 解析器，支持spark sql, tidb sql, flink sql, Spark/flink jar 运行命令解析器
 - [aistack/sql-booster](https://github.com/aistack/sql-booster) - This is a library for SQL optimizing/rewriting including Materialized View rewrite
 - [lw-lin/CoolplaySpark](https://github.com/lw-lin/CoolplaySpark) - 酷玩 Spark: Spark 源代码解析、Spark 类库等
-- [LB-Yu/data-systems-learning](https://github.com/LB-Yu/data-systems-learning) - Learning summary and examples about data systems.
+- [LiebingYu/data-systems-learning](https://github.com/LiebingYu/data-systems-learning) - Learning summary and examples about data systems.
 - [brianfrankcooper/YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 - [xiaozhch5/calcite-learning](https://github.com/xiaozhch5/calcite-learning) - 
 - [rmetzger/tiny-flink-talk](https://github.com/rmetzger/tiny-flink-talk) - 
