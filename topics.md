@@ -19,6 +19,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bot](#bot)
 - [c](#c)
 - [chatbot](#chatbot)
@@ -258,6 +259,10 @@
 ## bash 
 
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bot 
 
