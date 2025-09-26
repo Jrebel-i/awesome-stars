@@ -275,7 +275,7 @@
 - [dafei1288/flink-connector-opengauss](https://github.com/dafei1288/flink-connector-opengauss) - flink-connector-opengauss （unofficial）
 - [SophiaData/Bigdata_Code_Tutorial](https://github.com/SophiaData/Bigdata_Code_Tutorial) - Flink cdc 整库同步 & flink 代码 demo
 - [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, De
-- [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
+- [JetBrains/fernflower](https://github.com/JetBrains/fernflower) - Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
 - [miaowenting/calcite-learning](https://github.com/miaowenting/calcite-learning) - learn calcite sql parsing
 - [lixz3321/flink-connector-jdbc-ext](https://github.com/lixz3321/flink-connector-jdbc-ext) - 这是一个扩展的flink-connector-jdbc，相比于官方，该版本新增了对clickhouse、phoenix的支持，后面将会继续改造以支持更多的jdbc连接
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
