@@ -210,7 +210,7 @@
 - [flink-ci/flink-mirror](https://github.com/flink-ci/flink-mirror) - 
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
 - [lihuigang/hive-bitmap-udf](https://github.com/lihuigang/hive-bitmap-udf) - 在hive中使用Roaring64Bitmap实现精确去重功能
-- [neoremind/navi-pbrpc](https://github.com/neoremind/navi-pbrpc) - A protobuf based high performance rpc framework leveraging full-duplexing and asynchronous io with netty
+- [neoremind/navi-pbrpc](https://github.com/neoremind/navi-pbrpc) - A protobuf based high performance RPC framework leveraging full-duplexing and asynchronous I/O with netty
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [StephenYou520/SyCep](https://github.com/StephenYou520/SyCep) - CEP 动态Pattern
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
@@ -709,7 +709,7 @@
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [teo-ma/AzureSQLChatGPTDemo](https://github.com/teo-ma/AzureSQLChatGPTDemo) - 
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
