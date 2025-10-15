@@ -255,7 +255,7 @@
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws) - Clickstream Analytics on AWS source code
+- [aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws) - Guidance for Clickstream Analytics on AWS source code
 - [aws-samples/aws-lambda-clickhouse](https://github.com/aws-samples/aws-lambda-clickhouse) - Run the open-source online analytics database ClickHouse in an AWS Lambda function
 - [monitoringartist/grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) - :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3's performance from any location.
@@ -430,7 +430,7 @@
 - [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws) - Clickstream Analytics on AWS source code
+- [aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws) - Guidance for Clickstream Analytics on AWS source code
 
 ## data-engineering 
 
