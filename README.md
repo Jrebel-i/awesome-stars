@@ -114,7 +114,6 @@
 
 ## Go 
 
-- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) - 
@@ -426,6 +425,7 @@
 
 ## Others 
 
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [johnzeng/rocksdb-doc-cn](https://github.com/johnzeng/rocksdb-doc-cn) - 中文版rocksdb文档
 - [microgrape/ladder](https://github.com/microgrape/ladder) - 使用路由器安装ss客户端，实现全家科学上网/翻墙/梯子
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
