@@ -527,6 +527,7 @@
 
 ## Python 
 
+- [Micro-sheep/efinance](https://github.com/Micro-sheep/efinance) - efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [aws/sagemaker-xgboost-container](https://github.com/aws/sagemaker-xgboost-container) - This is the Docker container based on open source framework XGBoost (https://xgboost.readthedocs.io/en/latest/) to allow customers use their own XGBoost scripts in SageMaker.
 - [sngyai/Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
