@@ -523,7 +523,7 @@
 ## PowerShell 
 
 - [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 
 ## Python 
 
