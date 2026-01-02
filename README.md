@@ -606,7 +606,7 @@
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 - [apache/datafusion-sqlparser-rs](https://github.com/apache/datafusion-sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A course of building an LSM-Tree storage engine (database) in a week.
@@ -617,7 +617,6 @@
 - [apache/hbase-connectors](https://github.com/apache/hbase-connectors) - Apache HBase Connectors
 - [GuoNingNing/fire-spark](https://github.com/GuoNingNing/fire-spark) - Spark 脚手架工程，标准化 spark 开发、部署、测试流程。
 - [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
-- [Shockang/spark-examples](https://github.com/Shockang/spark-examples) - 致力于提供最具实践性的 Spark 代码开发学习指南
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 - [streamnative/pulsar-spark](https://github.com/streamnative/pulsar-spark) - Spark Connector to read and write with Pulsar
 - [apache/datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
