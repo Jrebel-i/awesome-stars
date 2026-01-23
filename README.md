@@ -54,7 +54,7 @@
 - [canonical/raft](https://github.com/canonical/raft) - Unmaintained C implementation of the Raft consensus protocol
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
 - [jean553/c-simd-avx2-example](https://github.com/jean553/c-simd-avx2-example) - Simple SIMD example in C (AVX2 Vectorization)
-- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等 https://learningos.github.io/os-lectures/
+- [LearningOS/os-lectures](https://github.com/LearningOS/os-lectures) - https://learningos.cn/os-lectures/ 2026年春季OS课程Slides\实验指导\思维导图\挑战项目等
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 
 ## C# # 
