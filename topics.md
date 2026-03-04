@@ -62,6 +62,7 @@
 - [education](#education)
 - [electron](#electron)
 - [english](#english)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -617,6 +618,10 @@
 ## english 
 
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
+
+## fastapi 
+
+- [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 
 ## finance 
 
