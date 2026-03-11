@@ -596,6 +596,7 @@
 - [fivesheep/chnroutes](https://github.com/fivesheep/chnroutes) - scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn
 - [aws-samples/aws-emr-apache-ranger](https://github.com/aws-samples/aws-emr-apache-ranger) - 
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane) - 🔥 Blazing fast bulk data transfers between any cloud 🔥
+- [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
 - [nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) - A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [dsoprea/RandomUtility](https://github.com/dsoprea/RandomUtility) - Disparate tools by published by Dustin.
@@ -652,7 +653,7 @@
 - [alibaba/SparkCube](https://github.com/alibaba/SparkCube) - SparkCube is an open-source project for extremely fast OLAP data analysis. SparkCube is an extension of Apache Spark.
 - [pierre94/flink-notes](https://github.com/pierre94/flink-notes) - flink学习笔记
 - [baolibin/Bigdata](https://github.com/baolibin/Bigdata) - 大数据处理相关技术学习之路(持续更新中...)。        Bigdata整理  --&gt;  慢慢滴~ 大数据相关技术包括离线处理，实时处理，OLAP等，如hadoop、spark、flink、hive、hbase、oozie...以及大数据项目，如用户画像、数据仓库等，欢迎感兴趣的小伙伴一起来开发...
-- [apache/incubator-gluten](https://github.com/apache/incubator-gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+- [apache/gluten](https://github.com/apache/gluten) - Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 - [yhyyz/flink-cdc-msk](https://github.com/yhyyz/flink-cdc-msk) - flink-cdc-msk
 - [hortonworks-spark/spark-atlas-connector](https://github.com/hortonworks-spark/spark-atlas-connector) - A Spark Atlas connector to track data lineage in Apache Atlas
 - [spark-redshift-community/spark-redshift](https://github.com/spark-redshift-community/spark-redshift) - Performant Redshift data source for Apache Spark
@@ -680,7 +681,6 @@
 - [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluen
 - [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
 - [aakashnand/trino-ranger-demo](https://github.com/aakashnand/trino-ranger-demo) - Tutorial on how to setup Trino and Apache Ranger using docker
-- [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
 - [bluishglc/ranger-emr-cli-installer](https://github.com/bluishglc/ranger-emr-cli-installer) - This is a powerful cli tool for Apache Ranger and AWS EMR automated installation & integration with OpenLDAP & Windows AD. It supports Open-Source Ranger and EMR-Native Ranger both, supports OpenLDAP 
 - [bluishglc/emr-edgenode-maker](https://github.com/bluishglc/emr-edgenode-maker) - This tool can easily make / build an emr cluster edge node / client node / gateway node
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
