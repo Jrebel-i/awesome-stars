@@ -274,7 +274,7 @@
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 - [Peefy/CompileDragonBook](https://github.com/Peefy/CompileDragonBook) - Compile Dragon Book + DSL book, etc.
 - [knaufk/flink-faker](https://github.com/knaufk/flink-faker) - A data generator source connector for Flink SQL based on data-faker.
-- [qinsql/QinSQL](https://github.com/qinsql/QinSQL) - AI 时代的智能数据库
+- [lealone-plugins/QinSQL](https://github.com/lealone-plugins/QinSQL) - AI 时代的智能数据库
 - [apache/flink-playgrounds](https://github.com/apache/flink-playgrounds) - Apache Flink Playgrounds
 - [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns) - 使用最浅显的语言呈现设计模式，力争让每一位程序员都看得懂
 - [melin/flink-cdc-catalog](https://github.com/melin/flink-cdc-catalog) - 
@@ -426,7 +426,6 @@
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
-- [kukume/kukubot](https://github.com/kukume/kukubot) - A bot.
 
 ## Markdown 
 
