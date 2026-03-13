@@ -332,7 +332,6 @@
 ## bot 
 
 - [tbxark/ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
-- [kukume/kukubot](https://github.com/kukume/kukubot) - A bot.
 
 ## c 
 
@@ -820,7 +819,6 @@
 ## kotlin 
 
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [kukume/kukubot](https://github.com/kukume/kukubot) - A bot.
 
 ## kubernetes 
 
@@ -1208,7 +1206,7 @@
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [knaufk/flink-faker](https://github.com/knaufk/flink-faker) - A data generator source connector for Flink SQL based on data-faker.
 - [michaelmior/calcite-notebooks](https://github.com/michaelmior/calcite-notebooks) - :notebook: A series of Jupyter notebooks to demonstrate the functionality of Apache Calcite
-- [qinsql/QinSQL](https://github.com/qinsql/QinSQL) - AI 时代的智能数据库
+- [lealone-plugins/QinSQL](https://github.com/lealone-plugins/QinSQL) - AI 时代的智能数据库
 - [apache/flink-playgrounds](https://github.com/apache/flink-playgrounds) - Apache Flink Playgrounds
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns) - 使用最浅显的语言呈现设计模式，力争让每一位程序员都看得懂
