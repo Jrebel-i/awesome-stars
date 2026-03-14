@@ -31,7 +31,6 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -537,6 +536,7 @@
 
 ## Python 
 
+- [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [yangguangfu007/emr-flink-monitoring-agent](https://github.com/yangguangfu007/emr-flink-monitoring-agent) - 基于多 Agent 架构的 EMR Flink 智能监控系统
@@ -571,6 +571,7 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [jt-zhang/XDU_CS_Learning](https://github.com/jt-zhang/XDU_CS_Learning) - 西安电子科技大学计算机专业经验分享:lollipop:
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+- [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 - [jiran214/GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播
 - [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses) - 名校公开课程评价网
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
@@ -606,10 +607,6 @@
 - [Jrebel-i/hadoop_onekey_deploy](https://github.com/Jrebel-i/hadoop_onekey_deploy) - 
 - [aws-samples/aws-glue-samples](https://github.com/aws-samples/aws-glue-samples) - AWS Glue code samples
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## Ruby 
-
-- [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress) - 好耶 是女装 | 备份·接受PR
 
 ## Rust 
 
