@@ -323,7 +323,7 @@
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [RealtimeCompute/ververica-cep-demo](https://github.com/RealtimeCompute/ververica-cep-demo) - Demo of Flink CEP with dynamic patterns
 - [confucianzuoyuan/mini-flink](https://github.com/confucianzuoyuan/mini-flink) - 
-- [zhangjun0x01/bigdata-examples](https://github.com/zhangjun0x01/bigdata-examples) - 分享一些在工作中的大数据实战案例，包括flink、kafka、hadoop、presto等等。欢迎大家关注我的公众号【大数据技术与应用实战】，一起成长。
+- [zhangjun0x01/bigdata-examples](https://github.com/zhangjun0x01/bigdata-examples) - 分享一些在工作中的大数据实战案例，包括flink、kafka、hadoop、presto等等。欢迎大家关注我的公众号【Hello大数据】，一起成长。
 - [zhaoyachao/zdh_web](https://github.com/zhaoyachao/zdh_web) - 大数据采集,抽取平台,zdh_web是zdh系列服务的可视化管理平台，包含数据采集,调度,权限,审批流,私域营销等模块
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
