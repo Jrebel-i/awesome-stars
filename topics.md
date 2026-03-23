@@ -80,6 +80,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
+- [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
@@ -803,6 +804,10 @@
 
 - [zq2599/blog_demos](https://github.com/zq2599/blog_demos) - CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+
+## jetpack-compose 
+
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 ## json 
 
