@@ -906,6 +906,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## mac 
 
@@ -1242,7 +1243,7 @@
 - [dafei1288/flink-connector-opengauss](https://github.com/dafei1288/flink-connector-opengauss) - flink-connector-opengauss （unofficial）
 - [SophiaData/Bigdata_Code_Tutorial](https://github.com/SophiaData/Bigdata_Code_Tutorial) - Flink cdc 整库同步 & flink 代码 demo
 - [pierre94/flink-notes](https://github.com/pierre94/flink-notes) - flink学习笔记
-- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
+- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」自用书源分享
 - [miaowenting/calcite-learning](https://github.com/miaowenting/calcite-learning) - learn calcite sql parsing
 - [lixz3321/flink-connector-jdbc-ext](https://github.com/lixz3321/flink-connector-jdbc-ext) - 这是一个扩展的flink-connector-jdbc，相比于官方，该版本新增了对clickhouse、phoenix的支持，后面将会继续改造以支持更多的jdbc连接
 - [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
