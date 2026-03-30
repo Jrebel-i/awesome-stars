@@ -216,6 +216,7 @@
 
 ## algorithmic-trading 
 
+- [touhoufan2024/qlibAssistant](https://github.com/touhoufan2024/qlibAssistant) - qlib助手, 每日自动预测a股 👇
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 
 ## algorithms 
@@ -1045,6 +1046,7 @@
 
 ## others 
 
+- [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
 - [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [yangguangfu007/emr-flink-monitoring-agent](https://github.com/yangguangfu007/emr-flink-monitoring-agent) - 基于多 Agent 架构的 EMR Flink 智能监控系统
