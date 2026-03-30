@@ -536,6 +536,8 @@
 
 ## Python 
 
+- [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
+- [touhoufan2024/qlibAssistant](https://github.com/touhoufan2024/qlibAssistant) - qlib助手, 每日自动预测a股 👇
 - [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
