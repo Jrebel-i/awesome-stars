@@ -678,7 +678,7 @@
 - [zabetak/calcite-druid-dataset](https://github.com/zabetak/calcite-druid-dataset) - Druid containers used for running the integration tests of Calcite Druid adapter
 - [apache/flink-docker](https://github.com/apache/flink-docker) - Docker packaging for Apache Flink
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-- [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
 - [hxhwing/EMR-Ranger-Integration](https://github.com/hxhwing/EMR-Ranger-Integration) - 
 - [tmcgrath/kafka-connect-examples](https://github.com/tmcgrath/kafka-connect-examples) - Kafka Connect Examples
 - [aws-samples/emr-spark-benchmark](https://github.com/aws-samples/emr-spark-benchmark) - 
