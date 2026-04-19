@@ -610,6 +610,7 @@
 - [aws-samples/aws-emr-utilities](https://github.com/aws-samples/aws-emr-utilities) - 
 - [nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) - A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [collabH/bigdata-growth](https://github.com/collabH/bigdata-growth) - 大数据知识仓库涉及到数据仓库建模、实时计算、大数据、数据中台、系统设计、Java、算法等。
 - [dsoprea/RandomUtility](https://github.com/dsoprea/RandomUtility) - Disparate tools by published by Dustin.
 - [Jrebel-i/hadoop_onekey_deploy](https://github.com/Jrebel-i/hadoop_onekey_deploy) - 
 - [aws-samples/aws-glue-samples](https://github.com/aws-samples/aws-glue-samples) - AWS Glue code samples
@@ -694,7 +695,6 @@
 - [LadyForest/flink-table-store-101](https://github.com/LadyForest/flink-table-store-101) - Playground for Flink Table Store with use cases and performance features
 - [steveloughran/winutils](https://github.com/steveloughran/winutils) - Windows binaries for Hadoop versions (built from the git commit ID used for the ASF relase)
 - [cdarlint/winutils](https://github.com/cdarlint/winutils) - winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows
-- [collabH/bigdata-growth](https://github.com/collabH/bigdata-growth) - 大数据知识仓库涉及到数据仓库建模、实时计算、大数据、数据中台、系统设计、Java、算法等。
 - [zhenchao125/docker_bigdata](https://github.com/zhenchao125/docker_bigdata) - 
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 
