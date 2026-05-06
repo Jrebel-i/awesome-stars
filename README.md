@@ -107,7 +107,6 @@
 
 ## Dockerfile 
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [ververica/ververica-ff-2024-dd2-sql-training](https://github.com/ververica/ververica-ff-2024-dd2-sql-training) - Flink Forward 2024, Deep Dives Session 2 repository
 - [wirelessr/flink-iceberg-playground](https://github.com/wirelessr/flink-iceberg-playground) - minio as local storage and DynamoDB as catalog
 - [dafei1288/flink-yarn-docker](https://github.com/dafei1288/flink-yarn-docker) - Run flink on docker containers.
@@ -287,7 +286,6 @@
 - [miaowenting/calcite-learning](https://github.com/miaowenting/calcite-learning) - learn calcite sql parsing
 - [lixz3321/flink-connector-jdbc-ext](https://github.com/lixz3321/flink-connector-jdbc-ext) - 这是一个扩展的flink-connector-jdbc，相比于官方，该版本新增了对clickhouse、phoenix的支持，后面将会继续改造以支持更多的jdbc连接
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [decaywood/XueQiuSuperSpider](https://github.com/decaywood/XueQiuSuperSpider) - 雪球股票信息超级爬虫
 - [apache/hbase-operator-tools](https://github.com/apache/hbase-operator-tools) - Apache HBase Operator Tools
 - [kaori-seasons/flink-catalog-in-jdbc](https://github.com/kaori-seasons/flink-catalog-in-jdbc) - 基于flink可以创建物理表的catalog
@@ -365,6 +363,7 @@
 
 ## JavaScript 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
@@ -495,7 +494,6 @@
 - [WarrenWen666/AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - A Survey of AI startups
 - [eftales/ldap-videoTutorial](https://github.com/eftales/ldap-videoTutorial) - ldap 视频教程资料
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [zouhuigang/book](https://github.com/zouhuigang/book) - 📕📗📘收集的各种书籍,pdf,ppt,doc资料，下载链接永久有效！
@@ -586,6 +584,7 @@
 - [1061700625/WeChat_Article](https://github.com/1061700625/WeChat_Article) - 爬取微信公众号文章
 - [aws/aws-emr-containers-best-practices](https://github.com/aws/aws-emr-containers-best-practices) - Best practices and recommendations for getting started with Amazon EMR on EKS.
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [dbiir/df-bench](https://github.com/dbiir/df-bench) - Benchmark for DataFrame Systems
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
@@ -595,6 +594,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
