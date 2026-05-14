@@ -1075,6 +1075,7 @@
 
 ## others 
 
+- [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
 - [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
