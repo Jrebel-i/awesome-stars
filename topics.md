@@ -785,6 +785,7 @@
 
 ## java 
 
+- [apache/spark-kubernetes-operator](https://github.com/apache/spark-kubernetes-operator) - Apache Spark Kubernetes Operator
 - [apache/hbase-connectors](https://github.com/apache/hbase-connectors) - Apache HBase Connectors
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [apache/bigtop](https://github.com/apache/bigtop) - Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components.
@@ -872,6 +873,7 @@
 
 ## kubernetes 
 
+- [apache/spark-kubernetes-operator](https://github.com/apache/spark-kubernetes-operator) - Apache Spark Kubernetes Operator
 - [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
@@ -1075,6 +1077,7 @@
 
 ## others 
 
+- [lonr-6/cc-desktop-switch](https://github.com/lonr-6/cc-desktop-switch) - Lightweight desktop tool for configuring DeepSeek, Kimi, Zhipu GLM and Bailian providers in Claude Desktop.
 - [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
