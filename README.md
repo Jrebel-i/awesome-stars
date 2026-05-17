@@ -536,6 +536,7 @@
 
 ## Python 
 
+- [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [lonr-6/cc-desktop-switch](https://github.com/lonr-6/cc-desktop-switch) - Lightweight desktop tool for configuring DeepSeek, Kimi, Zhipu GLM and Bailian providers in Claude Desktop.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
