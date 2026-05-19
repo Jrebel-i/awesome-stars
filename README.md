@@ -400,6 +400,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [datawhalechina/whale-quant](https://github.com/datawhalechina/whale-quant) - 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。
 - [charliedream1/ai_quant_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
