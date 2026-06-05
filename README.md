@@ -365,6 +365,7 @@
 
 ## JavaScript 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
@@ -442,7 +443,7 @@
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [xsDoge/info](https://github.com/xsDoge/info) - 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [johnzeng/rocksdb-doc-cn](https://github.com/johnzeng/rocksdb-doc-cn) - 中文版rocksdb文档
 - [microgrape/ladder](https://github.com/microgrape/ladder) - 使用路由器安装ss客户端，实现全家科学上网/翻墙/梯子
@@ -737,7 +738,7 @@
 - [aws-samples/aws-lambda-clickhouse](https://github.com/aws-samples/aws-lambda-clickhouse) - Run the open-source online analytics database ClickHouse in an AWS Lambda function
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [daybrush/infinite-viewer](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is Document Viewer Component with infinite scrolling.
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [kangkaisen/olap-performance](https://github.com/kangkaisen/olap-performance) - OLAP Database Performance Tuning Guide
 - [RealKai42/qwerty-learner-vscode](https://github.com/RealKai42/qwerty-learner-vscode) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸🐟版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode
 - [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
