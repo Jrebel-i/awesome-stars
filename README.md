@@ -190,7 +190,7 @@
 - [jaegertracing/jaeger-analytics-flink](https://github.com/jaegertracing/jaeger-analytics-flink) - Big data analytics for Jaeger using Apache Flink
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+- [williamfiset/algorithms](https://github.com/williamfiset/algorithms) - A collection of algorithms and data structures
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
 - [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
@@ -283,7 +283,7 @@
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [dafei1288/flink-connector-opengauss](https://github.com/dafei1288/flink-connector-opengauss) - flink-connector-opengauss （unofficial）
 - [SophiaData/Bigdata_Code_Tutorial](https://github.com/SophiaData/Bigdata_Code_Tutorial) - Flink cdc 整库同步 & flink 代码 demo
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, 
 - [JetBrains/fernflower](https://github.com/JetBrains/fernflower) - Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
 - [miaowenting/calcite-learning](https://github.com/miaowenting/calcite-learning) - learn calcite sql parsing
 - [lixz3321/flink-connector-jdbc-ext](https://github.com/lixz3321/flink-connector-jdbc-ext) - 这是一个扩展的flink-connector-jdbc，相比于官方，该版本新增了对clickhouse、phoenix的支持，后面将会继续改造以支持更多的jdbc连接
