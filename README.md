@@ -162,6 +162,7 @@
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [jaceklaskowski/spark-workshop](https://github.com/jaceklaskowski/spark-workshop) - Apache Spark™ and Scala Workshops
+- [zhaoyachao/zdh_web](https://github.com/zhaoyachao/zdh_web) - 大数据采集,抽取平台,zdh_web是zdh系列服务的可视化管理平台，包含数据采集,调度,权限,审批流,私域营销等模块
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 
 ## Java 
@@ -324,7 +325,6 @@
 - [RealtimeCompute/ververica-cep-demo](https://github.com/RealtimeCompute/ververica-cep-demo) - Demo of Flink CEP with dynamic patterns
 - [confucianzuoyuan/mini-flink](https://github.com/confucianzuoyuan/mini-flink) - 
 - [zhangjun0x01/bigdata-examples](https://github.com/zhangjun0x01/bigdata-examples) - 分享一些在工作中的大数据实战案例，包括flink、kafka、hadoop、presto等等。欢迎大家关注我的公众号【Hello大数据】，一起成长。
-- [zhaoyachao/zdh_web](https://github.com/zhaoyachao/zdh_web) - 大数据采集,抽取平台,zdh_web是zdh系列服务的可视化管理平台，包含数据采集,调度,权限,审批流,私域营销等模块
 - [siddhi-io/siddhi](https://github.com/siddhi-io/siddhi) - Stream Processing and Complex Event Processing Engine
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 - [alldatacenter/alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台为工厂，以大模型应用为上游产品，提供全链路数字化解决方案。产品正式演示体验、社群咨询、商务采购：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
