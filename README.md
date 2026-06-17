@@ -662,7 +662,7 @@
 - [streamnative/pulsar-spark](https://github.com/streamnative/pulsar-spark) - Spark Connector to read and write with Pulsar
 - [apache/datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
 - [AbsaOSS/spline](https://github.com/AbsaOSS/spline) - Data Lineage Tracking And Visualization Solution
-- [NVIDIA/spark-rapids](https://github.com/NVIDIA/spark-rapids) - Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+- [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) - Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [IBM/spark-s3-shuffle](https://github.com/IBM/spark-s3-shuffle) - A S3 Shuffle plugin for Apache Spark to enable elastic scaling for generic Spark workloads.
 - [apache/kyuubi](https://github.com/apache/kyuubi) - Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
@@ -726,6 +726,7 @@
 
 ## TypeScript 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [yanggggjie/rising-repo](https://github.com/yanggggjie/rising-repo) - 
