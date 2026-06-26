@@ -696,6 +696,7 @@
 
 ## finance 
 
+- [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
 - [Micro-sheep/efinance](https://github.com/Micro-sheep/efinance) - efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 
@@ -1115,7 +1116,6 @@
 - [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - 
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
-- [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [yangguangfu007/emr-flink-monitoring-agent](https://github.com/yangguangfu007/emr-flink-monitoring-agent) - 基于多 Agent 架构的 EMR Flink 智能监控系统
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
