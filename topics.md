@@ -1155,6 +1155,7 @@
 
 ## others 
 
+- [Kami958/WhoShitsonMyC](https://github.com/Kami958/WhoShitsonMyC) - 磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
