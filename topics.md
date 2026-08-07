@@ -1159,7 +1159,6 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [datafusion-contrib/StreamFusion](https://github.com/datafusion-contrib/StreamFusion) - World's First OSS Flink Accelerator built on Apache DataFusion
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [it-ebooks-0/gpt-translated-pdf-zh](https://github.com/it-ebooks-0/gpt-translated-pdf-zh) - 
@@ -1638,6 +1637,7 @@
 
 ## rust 
 
+- [datafusion-contrib/StreamFusion](https://github.com/datafusion-contrib/StreamFusion) - World's First OSS Flink Accelerator built on Apache DataFusion
 - [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) - Kubernetes operator for Apache Hive. Deploy and run the Hive Metastore with the Stackable Data Platform (SDP).
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [apache/paimon-rust](https://github.com/apache/paimon-rust) - Apache Paimon Rust The rust implementation of Apache Paimon.
