@@ -1204,7 +1204,7 @@
 - [qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18) - tvbox 影视tv 宝盒 接口
 - [GuoNingNing/fire-spark](https://github.com/GuoNingNing/fire-spark) - Spark 脚手架工程，标准化 spark 开发、部署、测试流程。
 - [kjfx/AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
-- [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
+- [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) - Free & Open IP Information API | 免费 IP 信息查询 API 集合，支持 GET 请求，无需鉴权，开箱即用
 - [hxhwing/EMR-Managed-Ranger-Plugin](https://github.com/hxhwing/EMR-Managed-Ranger-Plugin) - 
 - [AbsaOSS/spline-spark-agent](https://github.com/AbsaOSS/spline-spark-agent) - Spline agent for Apache Spark
 - [aws-samples/amazon-managed-service-for-apache-flink-examples](https://github.com/aws-samples/amazon-managed-service-for-apache-flink-examples) - Collection of code examples for Amazon Managed Service for Apache Flink
