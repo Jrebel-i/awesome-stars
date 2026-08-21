@@ -755,7 +755,7 @@
 - [aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws](https://github.com/aws-solutions-library-samples/guidance-for-clickstream-analytics-on-aws) - Guidance for Clickstream Analytics on AWS source code
 - [hypertrons/hypertrons-crx](https://github.com/hypertrons/hypertrons-crx) - A browser extension for insights into GitHub, Gitee projects and developers.
 - [aws-samples/aws-lambda-clickhouse](https://github.com/aws-samples/aws-lambda-clickhouse) - Run the open-source online analytics database ClickHouse in an AWS Lambda function
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [daybrush/infinite-viewer](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is Document Viewer Component with infinite scrolling.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
