@@ -283,7 +283,7 @@
 
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
@@ -624,7 +624,7 @@
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 - [tomfran/LSM-Tree](https://github.com/tomfran/LSM-Tree) - Log-Structured Merge Tree Java implementation
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [lhbench/lhbench](https://github.com/lhbench/lhbench) - Lakehouse storage system benchmark
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
@@ -836,7 +836,7 @@
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
@@ -1102,7 +1102,7 @@
 ## mysql 
 
 - [gangly/datafaker](https://github.com/gangly/datafaker) - Datafaker is a large-scale test data and flow test data generation tool. Datafaker fakes data and inserts to  varied data sources. 测试数据生成工具
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
@@ -1187,7 +1187,7 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [it-ebooks-0/gpt-translated-pdf-zh](https://github.com/it-ebooks-0/gpt-translated-pdf-zh) - 
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
