@@ -55,7 +55,7 @@
 
 ## C 
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [canonical/raft](https://github.com/canonical/raft) - Unmaintained C implementation of the Raft consensus protocol
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
@@ -78,7 +78,7 @@
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
@@ -445,6 +445,7 @@
 
 ## Others 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 南瓜书：《机器学习》（西瓜书）公式详解
 - [it-ebooks-0/gpt-translated-pdf-zh](https://github.com/it-ebooks-0/gpt-translated-pdf-zh) - 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
@@ -737,7 +738,6 @@
 
 ## TypeScript 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
