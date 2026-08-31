@@ -1197,6 +1197,7 @@
 
 ## others 
 
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [spring-ai-alibaba/DataAgent](https://github.com/spring-ai-alibaba/DataAgent) - Spring AI Alibaba DataAgent
 - [Kami958/WhoShitsonMyC](https://github.com/Kami958/WhoShitsonMyC) - 磁盘空间变化对比轻量小工具；A lightweight disk space change comparison tool.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
