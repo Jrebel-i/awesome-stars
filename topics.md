@@ -765,7 +765,7 @@
 
 ## finance 
 
-- [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - 
+- [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - Professional financial data API for China A-shares, US & HK stocks. Python SDK with real-time quotes, K-line data & financial reports.
 - [Micro-sheep/efinance](https://github.com/Micro-sheep/efinance) - efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 
