@@ -744,7 +744,7 @@
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
 - [apache/submarine](https://github.com/apache/submarine) - Submarine is Cloud Native Machine Learning Platform.
 - [aakashnand/trino-ranger-demo](https://github.com/aakashnand/trino-ranger-demo) - Tutorial on how to setup Trino and Apache Ranger using docker
-- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
+- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - Centralized, fine-grained authorization and auditing across data and AI platforms
 
 ## documentation 
 
@@ -937,7 +937,7 @@
 - [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for collecting metrics using JMX MBeans for Prometheus consumption
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
-- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
+- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - Centralized, fine-grained authorization and auditing across data and AI platforms
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [getindata/flink-http-connector](https://github.com/getindata/flink-http-connector) - Http Connector for Apache Flink. Provides sources and sinks for Datastream , Table and SQL APIs.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -1630,7 +1630,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
+- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - Centralized, fine-grained authorization and auditing across data and AI platforms
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) - A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
