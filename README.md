@@ -314,7 +314,7 @@
 - [MyLanPangzi/flink-demo](https://github.com/MyLanPangzi/flink-demo) - Flink Demo
 - [aakashnand/ranger](https://github.com/aakashnand/ranger) - Mirror of Apache Ranger
 - [ververica/flink-sql-benchmark](https://github.com/ververica/flink-sql-benchmark) - 
-- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - To enable, monitor and manage comprehensive data security across the Hadoop platform and beyond
+- [apache/ranger](https://github.com/apache/ranger) - Apache Ranger - Centralized, fine-grained authorization and auditing across data and AI platforms
 - [bytedance/CloudShuffleService](https://github.com/bytedance/CloudShuffleService) - Cloud Shuffle Service(CSS) is a general purpose remote shuffle solution for compute engines, including Spark/Flink/MapReduce.
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
