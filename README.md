@@ -34,7 +34,6 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -146,6 +145,7 @@
 
 ## Go Template 
 
+- [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 - [opensource-f2f/episode](https://github.com/opensource-f2f/episode) - 开源面对面，连接热爱开源的你！Episodes for the open-source face-to-face talk!
 
 ## Groovy 
@@ -729,10 +729,6 @@
 - [cdarlint/winutils](https://github.com/cdarlint/winutils) - winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows
 - [zhenchao125/docker_bigdata](https://github.com/zhenchao125/docker_bigdata) - 
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-## Smarty 
-
-- [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
 ## Swift 
 
