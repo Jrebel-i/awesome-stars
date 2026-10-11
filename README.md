@@ -379,7 +379,7 @@
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
 - [kscript/markdown-download](https://github.com/kscript/markdown-download) - 谷歌浏览器插件: 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN的文章转为markdown文档并下载
 - [LGiki/cosmos-enhanced](https://github.com/LGiki/cosmos-enhanced) - 🪐 一个增强小宇宙播客网页端使用体验的浏览器插件
-- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
 - [L8426936/CleanUpWeChatZombieFans](https://github.com/L8426936/CleanUpWeChatZombieFans) - auto.js脚本，Android自动化，清理微信僵尸粉
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
@@ -570,7 +570,7 @@
 - [chenditc/investment_data](https://github.com/chenditc/investment_data) - Scripts and doc for https://www.dolthub.com/repositories/chenditc/investment_data
 - [touhoufan2024/qlibAssistant](https://github.com/touhoufan2024/qlibAssistant) - qlib助手, 每日自动预测a股 👇
 - [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow) - Professional financial data API for China A-shares, US & HK stocks. Python SDK with real-time quotes, K-line data & financial reports.
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [yangguangfu007/emr-flink-monitoring-agent](https://github.com/yangguangfu007/emr-flink-monitoring-agent) - 基于多 Agent 架构的 EMR Flink 智能监控系统
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
