@@ -1226,6 +1226,7 @@
 
 ## others 
 
+- [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati
@@ -1362,7 +1363,7 @@
 - [birdLark/LarkMidTable](https://github.com/birdLark/LarkMidTable) - LarkMidTable 是一站式开源的数据中台，实现中台的 基础建设，数据治理，数据开发，监控告警，数据服务，数据的可视化，实现高效赋能数据前台并提供数据服务的产品。
 - [sqlcore/presto-teach](https://github.com/sqlcore/presto-teach) - presto、trino资料分享，开发文档、源码阅读、二次开发。
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-- [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP、APP、小程序）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说书评、段落评论、小说书单、会员中心、作家专区、充值订阅、新闻发布等功能。
+- [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP、APP、小程序）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说书评、小说书单、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - [hxhwing/EMR-Ranger-Integration](https://github.com/hxhwing/EMR-Ranger-Integration) - 
 - [oap-project/Gluten-Trino](https://github.com/oap-project/Gluten-Trino) - Gluten: Plugin to Boost Trino's Performance
