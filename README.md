@@ -25,6 +25,7 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Mermaid](#mermaid)
@@ -433,6 +434,10 @@
 - [ga642381/ML2021-Spring](https://github.com/ga642381/ML2021-Spring) - **Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2021 Spring
 - [Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning) - 李宏毅2021/2022/2023春季机器学习课程课件及作业
 
+## Just 
+
+- [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals) - The Internals of Spark SQL
+
 ## Kotlin 
 
 - [qifan777/data-agent-tutorial](https://github.com/qifan777/data-agent-tutorial) - Data-Agent：从 0 到 1 构建 Text2SQL 智能体实战教程，覆盖 StateGraph 编排、双重 RAG、关系图谱、HITL 人工确认、SQL 自动纠错、Python Docker 沙盒执行与 A2A + SSE 流式交互。
@@ -505,7 +510,6 @@
 - [kaori-seasons/sql-segmentation-algorithm](https://github.com/kaori-seasons/sql-segmentation-algorithm) - 对于在Flink sql下不同方言的大SQL进行切分的工具
 - [luzhouxiaobai/Big-Data-Review](https://github.com/luzhouxiaobai/Big-Data-Review) - 大数据学习/面试
 - [zhaoyun0071/DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) - 
-- [japila-books/spark-sql-internals](https://github.com/japila-books/spark-sql-internals) - The Internals of Spark SQL
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [WarrenWen666/AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - A Survey of AI startups
 - [eftales/ldap-videoTutorial](https://github.com/eftales/ldap-videoTutorial) - ldap 视频教程资料
