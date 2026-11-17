@@ -554,6 +554,7 @@
 
 ## Python 
 
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [Jrebel-i/Semantica_DataAgent](https://github.com/Jrebel-i/Semantica_DataAgent) - 基于Semantica搭建的DataAgent
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
