@@ -243,7 +243,7 @@
 ## ai 
 
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -354,7 +354,7 @@
 
 ## artificial-intelligence 
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [WarrenWen666/AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - A Survey of AI startups
@@ -635,7 +635,7 @@
 
 ## data-engineering 
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [twalthr/flink-api-examples](https://github.com/twalthr/flink-api-examples) - Examples for using Apache Flink® with DataStream API, Table API, Flink SQL and connectors such as MySQL, JDBC, CDC, Kafka.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
@@ -728,7 +728,7 @@
 ## developer-tools 
 
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
@@ -837,7 +837,7 @@
 
 ## generative-ai 
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
@@ -1018,7 +1018,7 @@
 
 ## knowledge-graph 
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 
 ## kotlin 
 
@@ -1087,7 +1087,7 @@
 
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [didilili/shopkeeper-agent](https://github.com/didilili/shopkeeper-agent) - 📊 电商数仓智能问数 AI Agent，最适合用于系统学习 LangGraph 的实战项目：基于 LangGraph、FastAPI、Qdrant、Elasticsearch、MySQL 与 React，完整实现元数据知识库、混合检索、自然语言生成 NL2SQL 生成校验、SQL 执行与流式查询展示。前后端完整代码全栈可跑，Docker 环境一键部署，配套 ai-agents-from-zero 
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
@@ -1268,6 +1268,7 @@
 
 ## others 
 
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM 
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [Jrebel-i/Semantica_DataAgent](https://github.com/Jrebel-i/Semantica_DataAgent) - 基于Semantica搭建的DataAgent
 - [voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca) - 
@@ -1651,7 +1652,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli) - 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
